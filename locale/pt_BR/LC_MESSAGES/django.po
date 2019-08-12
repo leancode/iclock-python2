@@ -1,0 +1,3371 @@
+# coding=utf-8
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Django\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-01-15 14:37+0800\n"
+"PO-Revision-Date: 2008-04-10 11:57+0800\n"
+"Last-Translator: <csk@zksoftware.com>\n"
+"Language-Team: Simplified Chinese <limodou@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-Country: CHINA\n"
+"X-Poedit-Language: Chinese\n"
+"X-Poedit-SourceCharset: utf-8\n"
+
+#: .\iclock\models.py:1070
+msgid "command to device"
+msgstr "comando para dispositivo"
+
+#: .\iclock\models.py:762 #can not finish by Louis
+msgid "device operation log"
+msgstr "registro da operação do dispositivo"
+
+#: .\media\jslib\DateTimeShortcuts.js.py:45 
+#: .\media\jslib\DateTimeShortcuts.js.py:79
+msgid "Now"
+msgstr "Agora"
+
+#: .\media\jslib\DateTimeShortcuts.js.py:49 
+msgid "Clock"
+msgstr "Relógio"
+
+#: .\media\jslib\DateTimeShortcuts.js.py:76 
+msgid "Choose a time"
+msgstr "Selecionar hora"
+
+#: .\media\jslib\DateTimeShortcuts.js.py:80 
+msgid "Midnight"
+msgstr "Meia-noite"
+
+#: .\media\jslib\DateTimeShortcuts.js.py:81 
+msgid "6 a.m."
+msgstr "6:00hs"
+
+#: .\media\jslib\DateTimeShortcuts.js.py:82 
+msgid "Noon"
+msgstr "Meio-dia"
+
+#: .\media\jslib\DateTimeShortcuts.js.py:86 
+#: .\media\jslib\DateTimeShortcuts.js.py:183
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: .\media\jslib\DateTimeShortcuts.js.py:128 
+#: .\media\jslib\DateTimeShortcuts.js.py:177
+msgid "Today"
+msgstr "Hoje"
+
+#: .\media\jslib\DateTimeShortcuts.js.py:132 
+msgid "Calendar"
+msgstr "Calendário"
+
+#: .\media\jslib\DateTimeShortcuts.js.py:175 
+
+msgid "Yesterday"
+msgstr "Ontem"
+
+#: .\media\jslib\DateTimeShortcuts.js.py:179 
+
+msgid "Tomorrow"
+msgstr "Amanhã"
+
+#: .\media\jslib\calendar.js.py:24 
+
+msgid ""
+"January February March April May June July August September October November "
+"December"
+msgstr "Janeiro Fevereiro Março Abril Maio Junho Julho Agosto Setembro Outubro Novembro Dezembro"
+
+#: .\media\jslib\calendar.js.py:25 
+
+msgid "S M T W T F S"
+msgstr "D S T Q Q S S"
+#: .\authurls.py:40 .\authurls.py:56 
+
+msgid "Delete out-of-date records, are you sure?"
+msgstr "Deletar registros desatualizados, tem certeza?"
+
+msgid "Delete before _days_ days, out-of-date records, are you sure?"
+msgstr "Deletar antes_dias_dias, registros desatualizados, tem certeza?"
+
+msgid "Delete out-of-date records"
+msgstr "Deletar registros desatualizados"
+
+msgid "Login"
+msgstr "Login"
+
+#: .\authurls.py:41 
+
+msgid "Invalid Username or Password, please try again."
+msgstr "Nome do Usuário ou Senha Inválida, tentar novamente."
+
+#: .\authurls.py:57 
+
+msgid "No permission to do anything!"
+msgstr "Nenhuma ação permitida!"
+
+#: .\iclocklocale.py:69 .\iclocklocale.py:80 
+
+#, python-format
+msgid "Staff %s"
+msgstr "Equipe%s"
+
+#: .\settings.py:84 
+
+msgid "English"
+msgstr "Inglês"
+
+#: .\settings.py:85 
+
+msgid "Simplified Chinese"
+msgstr "Chinês Simplificado"
+
+#: .\iclock\admin_detail_view.py:50 
+
+msgid "Reset password"
+msgstr "Redefinir senha"
+
+#: .\iclock\admin_detail_view.py:51 .\iclock\models.py:426 
+
+#: .\iclock\models.py:608 .\templates\admin\auth\user\add_form.html.py:18
+#: .\templates\admin\auth\user\change_password.html.py:34
+msgid "Password"
+msgstr "Senha"
+
+#: .\iclock\admin_detail_view.py:53 
+
+msgid "Password again"
+msgstr "Senha novamente"
+
+#: .\iclock\admin_detail_view.py:74 
+
+msgid "Must be same as Password"
+msgstr "Deve ser igual à Senha."
+
+#: .\iclock\admin_detail_view.py:78 
+
+msgid "The length must be great than 4"
+msgstr "A extensão deve ser maior que 4"
+
+#: .\iclock\admin_detail_view.py:125 
+
+#, python-format
+msgid "Keyword \"%(object_name)s\" Data do not exist!"
+msgstr "Palavra-chave \"%(object_name)s\" Dados não existem!"
+
+#: .\iclock\admin_detail_view.py:129 
+
+msgid "No permission"
+msgstr "Sem permissão"
+
+#: .\iclock\admin_detail_view.py:142 .\iclock\dataview.py:171 
+
+msgid "new"
+msgstr "novo"
+
+#: .\iclock\datamisc.py:26 
+
+msgid "male"
+msgstr "masculino"
+
+#: .\iclock\datamisc.py:26 
+
+msgid "female"
+msgstr "feminino"
+
+#: .\iclock\datamisc.py:51 
+
+msgid "Export data"
+msgstr "Exportar dados"
+
+#: .\iclock\datamisc.py:51 
+
+msgid "Specified data format does not exist or do not support!"
+msgstr "Formato especificado dos dados não existe ou não é suportado!"
+
+#: .\iclock\dataproc.py:279 
+
+#, python-format
+msgid ""
+"The Firmware version of device %(object_name)s is unknown???cannot to be "
+"upgraded!"
+msgstr "A versão Firmware do dispositivo %(object_name)s é desconhecida???não pode ser " "atualizada!"
+
+#: .\iclock\dataproc.py:290 
+
+#, python-format
+msgid ""
+"The firmware file '%(object_name)s' does not exist, can not upgrade firmware "
+"for %(esc_name)s!"
+msgstr "O arquivo firmware '%(object_name)s' não existe, não pode atualizar o firmware ""para %(esc_name)s!"
+
+#: .\iclock\datautils.py:301 
+
+msgid "You do not have the permission!"
+msgstr "Você não tem permissão!"
+
+#: .\iclock\dataview.py:71 
+
+msgid "clear"
+msgstr "limpar"
+
+#: .\iclock\dataview.py:71 .\iclock\filterspecs.py:70 
+
+#: .\iclock\filterspecs.py:100 .\iclock\filterspecs.py:156
+#: .\iclock\filterspecs.py:182 .\templates\iclock_list.html.py:88
+#: .\templates\iclock_list.html.py:212 .\templates\iclock_list.html.py:278
+msgid "All"
+msgstr "Todos"
+
+#: .\iclock\dataview.py:157 
+
+msgid "Duplicated"
+msgstr "Duplicado"
+
+#: .\iclock\dataview.py:210 
+
+#, python-format
+msgid "Keyword \"%(object_name)s\" can not to be changed!"
+msgstr "Palavra-chave \"%(object_name)s\" não pode ser mudada!"
+
+#: .\iclock\dataview.py:230 .\templates\Group_edit.html.py:95 
+
+#: .\templates\Group_edit.html.py:114 .\templates\Group_edit.html.py:130
+msgid "Modify"
+msgstr "Modificar"
+
+#: .\iclock\dataview.py:317 
+
+#, python-format
+msgid "Device options \"%s\" Unavailable!"
+msgstr "Opções de dispositivo \"%s\" Não disponíveis!"
+
+#: .\iclock\dataview.py:336 .\iclock\dataview.py:342 .\iclock\dataview.py:348
+#: .\iclock\dataview.py:356 .\iclock\dataview.py:362 .\iclock\taskview.py:39
+#: .\iclock\taskview.py:78
+msgid "Designated device does not exist!"
+msgstr "Dispositivo designado não existe!"
+
+#: .\iclock\dataview.py:373 
+
+#, python-format
+msgid "%s %s does not exist!"
+msgstr "%s %s não existe!"
+
+#: .\iclock\dataview.py:378 
+
+#, python-format
+msgid "Does not support this feature: \"action=%(object_name)s\""
+msgstr "Não suporta este atributo: \"action=%(object_name)s\""
+
+#: .\iclock\dataview.py:392 .\iclock\genmsgview.py:74 
+
+#: .\iclock\genmsgview.py:87
+msgid "Error"
+msgstr "Erro"
+
+#: .\iclock\dataview.py:392 .\iclock\genmsgview.py:74 
+
+#: .\iclock\genmsgview.py:87
+msgid "The server is not installed information services module!"
+msgstr "O servidor não é o Information Services Module instalado!"
+
+#: .\iclock\desfiles.py:67 
+
+#, python-format
+msgid "%(i)d attendance record."
+msgstr "%(i)d registro de frequência."
+
+#: .\iclock\expview.py:320 
+
+msgid "Automatically Data Export Definition"
+msgstr "Definição de Exportação de Dados Automática"
+
+#: .\iclock\filterspecs.py:87 
+
+msgid "More ..."
+msgstr "Mais …"
+
+#: .\iclock\filterspecs.py:121 
+
+msgid "Any date"
+msgstr "Qualquer data"
+
+#: .\iclock\filterspecs.py:125 
+
+msgid "Past 7 days"
+msgstr "Últimos 7 dias"
+
+#: .\iclock\filterspecs.py:127 
+
+msgid "This month"
+msgstr "Este mês"
+
+#: .\iclock\filterspecs.py:129 
+
+msgid "This year"
+msgstr "Este ano"
+
+#: .\iclock\filterspecs.py:130 
+
+msgid "Range ..."
+msgstr "Faixa …"
+
+#: .\iclock\filterspecs.py:156 .\iclock\models.py:108 
+
+msgid "Yes"
+msgstr "Sim"
+
+#: .\iclock\filterspecs.py:156 .\iclock\models.py:108 
+
+msgid "No"
+msgstr "Não"
+
+#: .\iclock\filterspecs.py:163 
+
+msgid "Unknown"
+msgstr "Desconhecido"
+
+#: .\iclock\genmsgview.py:71 
+
+msgid "Generating Messages"
+msgstr "Gerando Mensagens"
+
+#: .\iclock\importdata.py:20 
+
+#, python-format
+msgid "<a href='/iclock/tmp/%s'> %d record(s) is duplicated or invalid."
+msgstr "<a href='/iclock/tmp/%s'> %d registro(s) é(são) duplicado(s) ou inválido(s)."
+
+#: .\iclock\importdata.py:24 
+
+#, python-format
+msgid "Inserted %(object_num)d successfully"
+msgstr "%(object_num)d introduzido com êxito"
+
+#: .\iclock\importdata.py:25 
+
+#, python-format
+msgid "Updated %(object_num)d successfully"
+msgstr "%(object_num)d atualizado com êxito"
+
+#: .\iclock\importdata.py:26 
+
+#, python-format
+msgid " %(object_num)d already exists in the database"
+msgstr "%(object_num)d já existe no banco de dados"
+
+#: .\iclock\importdata.py:28 
+
+#, python-format
+msgid "In the data files %(object_num)d  %(object_name)s "
+msgstr "Nos arquivos de dados%(object_num)d  %(object_name)s "
+
+#: .\iclock\importdata.py:65 .\iclock\importdata.py:69 
+
+#: .\iclock\importdata.py:190
+msgid "fail"
+msgstr "falha"
+
+#: .\iclock\importdata.py:65 
+
+msgid "<h1> Data upload failure </h1>. <br/> A device must be provided."
+msgstr "<h1> Falha de carregamento de dados </h1>. <br/> Um dispositivo deve ser fornecido."
+
+#: .\iclock\importdata.py:69 
+
+#, python-format
+msgid ""
+"<h1> Data upload failure </h1>. <br/> You have no permission to upload data "
+"to device %(object_name)s "
+msgstr "<h1> Falha de carregamento de dados </h1>. <br/> Você não tem permissão para carregar dados para o dispositivo %(object_name)s "
+
+#: .\iclock\importdata.py:91 .\iclock\importdata.py:146 
+
+#: .\iclock\importdata.py:151
+msgid "fail "
+msgstr "falha"
+
+#: .\iclock\importdata.py:91 
+
+#, python-format
+msgid ""
+"<h1> Data upload failure </h1> <br/> Empployee information from the data "
+"file is not from device %(object_name)s"
+msgstr "<h1> Falha de carregamento de dados </h1> <br/> As informações do funcionário do arquivo de dados não são do dispositivo %(object_name)s "
+
+#: .\iclock\importdata.py:126 
+
+msgid "user information"
+msgstr "informação do usuário"
+
+#: .\iclock\importdata.py:129 .\iclock\importdata.py:181 
+
+#: .\iclock\importdata.py:216 .\iclock\importdata.py:219
+msgid "Import data"
+msgstr "Importar dados"
+
+#: .\iclock\importdata.py:130 
+
+msgid ""
+"Employee information does not match the data, select the correct employee "
+"information data file"
+msgstr "As informações do funcionário não coincidem com os dados, selecionar o arquivo de dados de informações do funcionário correto"
+
+#: .\iclock\importdata.py:146 
+
+#, python-format
+msgid ""
+"<h1> Data upload failure </ h1>, <br /> staff fingerprint data files are not "
+"from the attendance of %(object_name)s"
+msgstr "<h1> Falha de carregamento de dados </ h1>, <br /> arquivos de dados de identificação da equipe não são da frequência de %(object_name)s"
+
+#: .\iclock\importdata.py:152 
+
+msgid ""
+"<h1> Data upload failure </ h1>, <br /> If the fingerprint template to "
+"upload, please also upload their associated user information!"
+msgstr "<h1> Falha de carregamento de dados </ h1>, <br /> Se o modelo de impressão digital for para carregar, favor também carregar suas informações de usuário associadas!"
+
+#: .\iclock\importdata.py:178 
+
+msgid "Fingerprint template"
+msgstr "Modelo de impressão digital"
+
+#: .\iclock\importdata.py:182 
+
+#, python-format
+msgid ""
+"<h1>Upload data success</h1><br /><br />%(object_name)s<br /><h1>Data Import "
+"failure</h1><br /><br />Fingerprint template does not match the data or data "
+"file is empty, please select the correct <b>fingerprint template </b>data "
+"files"
+msgstr "<h1>Carregamento de dados com sucesso</h1><br /><br />%(object_name)s<br /><h1>Falha de importação de dados</h1><br /><br />Modelo de impressão digital não combina com os dados ou o arquivo de dados está vazio, favor selecionar os <b>arquivos de dados</b> do modelo de impressão digital corretos"
+
+#: .\iclock\importdata.py:190 
+
+msgid "Upload data failure"
+msgstr "Falha de carregamento de dados"
+
+#: .\iclock\importdata.py:190 
+
+msgid "Attendance record attendance data files are not from the device"
+msgstr "Os arquivos de dados de frequência do registro de frequência não são do dispositivo"
+
+#: .\iclock\importdata.py:213 .\templates\employee_list.html.py:5 
+
+msgid "Transactions"
+msgstr "Transações"
+
+#: .\iclock\importdata.py:217 .\iclock\importdata.py:219 
+
+msgid "Data Import Results"
+msgstr "Resultados de Importação de Dados"
+
+#: .\iclock\importdata.py:217 
+
+msgid "Data Import failure"
+msgstr "Falha na Importação de Dados"
+
+#: .\iclock\importdata.py:217 
+
+msgid ""
+"Transactions does not match data, Please select the correct <b>transaction</"
+"b> data file!"
+msgstr "Transações não correspondem aos dados, Favor, selecionar o <b>transação</b> arquivo de dados correto!"
+
+#: .\iclock\importdata.py:223 
+
+msgid "error"
+msgstr "Erro"
+
+#: .\iclock\importdata.py:223 
+
+msgid "The server is not installed U-disk data import module!"
+msgstr "O servidor não tem instalado o U-disk data import module!"
+
+#: .\iclock\importdata.py:227 
+
+msgid "Import U-disk data files"
+msgstr "Importar arquivos de dados do U-disk"
+
+#: .\iclock\models.py:18 .\templates\employee_list.html.py:183 
+
+msgid "department"
+msgstr "departamento"
+
+#: .\iclock\models.py:19 
+
+msgid "department name"
+msgstr "nome do departamento"
+
+#: .\iclock\models.py:20 
+
+msgid "department number"
+msgstr "número do departamento"
+
+#: .\iclock\models.py:42 
+
+msgid "parent"
+msgstr "sede"
+
+#: .\iclock\models.py:83 
+
+msgid "Nested department parent"
+msgstr "Sede aninhada no departamento"
+
+#: .\iclock\models.py:232 
+
+msgid "serial number"
+msgstr "número de série"
+
+#: .\iclock\models.py:232 
+
+msgid ""
+"Should be set with the device, on the device, access management menu \"Sys "
+"Info\" / \"Dev Info\" / \"Serial Num\" could be found"
+msgstr "Deve ser definido com o dispositivo, no dispositivo, menu Access Management \"Sys "
+"Info\" / \"Dev Info\" / \"Serial Num\" pôde ser encontrado"
+
+#: .\iclock\models.py:234 
+
+msgid "last activity"
+msgstr "última atividade"
+
+#: .\iclock\models.py:235 .\iclock\models.py:806 
+
+msgid "transfer time"
+msgstr "tempo de transferência"
+
+#: .\iclock\models.py:235 
+
+msgid ""
+"Setting device for a moment from the plane started to send checks to the new "
+"data server. Hh: mm (hours: minutes) format, with a number of time between "
+"the semicolon (;) separately"
+msgstr "Configurando dispositivo para um momento a partir do plano iniciado para enviar verificações para o novo servidor de dados. Formato Hh: mm (horas: minutos), com um número de horas entre "
+"ponto-vírgula (;) separadamente"
+
+#: .\iclock\models.py:236 
+
+msgid "interval"
+msgstr "intervalo"
+
+#: .\iclock\models.py:236 
+
+msgid ""
+"Device set for each interval to check how many minutes to send new data "
+"server"
+msgstr "Dispositivo configurado para cada intervalo para verificar quantos minutos são necessários para enviar novos dados servidor"
+
+#: .\iclock\models.py:237 
+
+msgid "trans record stamp"
+msgstr "selo do registro de transferência"
+
+#: .\iclock\models.py:237 
+
+msgid ""
+"Logo for the latest device to the server send the transactions timestamps"
+msgstr "Logomarca para o mais recente dispositivo para o servidor enviar os selos de data e hora das transações"
+
+#: .\iclock\models.py:238 
+
+msgid "trans OP stamp"
+msgstr "Selo de transferência OP"
+
+#: .\iclock\models.py:238 
+
+msgid ""
+"Marking device for the server to the employee data transfer as timestamps"
+msgstr "Dispositivo de marcação para o servidor para a transferência de dados do funcionário como selos de data e hora"
+
+#: .\iclock\models.py:239 
+
+msgid "device name"
+msgstr "nome do dispositivo"
+
+msgid "Device Name"
+msgstr "Nome do Dispositivo"
+
+#: .\iclock\models.py:239 
+
+msgid "Device of a name"
+msgstr "Dispositivo de um nome"
+
+#: .\iclock\models.py:241 
+
+msgid "update flag"
+msgstr "sinalizador de atualização"
+
+#: .\iclock\models.py:241 
+
+msgid "To identify what kind of data should be transfered to the server"
+msgstr "Para identificar o tipo de dados que devem ser transferidos para o servidor"
+
+#: .\iclock\models.py:242 
+
+msgid "Style:"
+msgstr "Estilo:"
+
+msgid "List style"
+msgstr "Estilo da lista"
+
+msgid "Table style"
+msgstr "Estilo da tabela"
+
+#: .\iclock\models.py:244 
+
+msgid "FW Version"
+msgstr "Versão FW"
+
+#: .\iclock\models.py:245 
+
+msgid "FP Count"
+msgstr "Contagem FP"
+
+#: .\iclock\models.py:246 
+
+msgid "Transaction Count"
+msgstr "Contagem das Transações"
+
+#: .\iclock\models.py:247 
+
+msgid "User Count"
+msgstr "Contagem dos Usuários"
+
+#: .\iclock\models.py:248 
+
+msgid "MainTime"
+msgstr "Tempo Principal"
+
+#: .\iclock\models.py:249 
+
+msgid "MaxFingerCount"
+msgstr "ContMáxImpressõesdigitais"
+
+#: .\iclock\models.py:250 
+
+msgid "MaxAttLogCount"
+msgstr "ContMáxRegistros"
+
+#: .\iclock\models.py:251 
+
+msgid "DeviceName"
+msgstr "NomedoDispositivo"
+
+#: .\iclock\models.py:252 
+
+msgid "AlgVer"
+msgstr "VerAlgor"
+
+#: .\iclock\models.py:253 
+
+msgid "FlashSize"
+msgstr "TamanhoFlash"
+
+#: .\iclock\models.py:254 
+
+msgid "FreeFlashSize"
+msgstr "TamanhoFlashLivre"
+
+#: .\iclock\models.py:255 
+
+msgid "Language"
+msgstr "Idioma"
+
+#: .\iclock\models.py:256 
+
+msgid "VOLUME"
+msgstr "VOLUME"
+
+#: .\iclock\models.py:257 
+
+msgid "DtFmt"
+msgstr "FormatoData"
+
+#: .\iclock\models.py:258 
+
+msgid "IPAddress"
+msgstr "EndereçoIP"
+
+#: .\iclock\models.py:259 
+
+msgid "IsTFT"
+msgstr "ÉTFT?"
+
+#: .\iclock\models.py:260 
+
+msgid "Platform"
+msgstr "Plataforma"
+
+#: .\iclock\models.py:261 
+
+msgid "Brightness"
+msgstr "Brilho"
+
+#: .\iclock\models.py:262 
+
+msgid "Auto backup data to"
+msgstr "Auto backup de dados para"
+
+#: .\iclock\models.py:263 
+
+msgid "OEMVendor"
+msgstr "FornecedorOEM"
+
+#: .\iclock\models.py:264 
+
+msgid "city"
+msgstr "cidade"
+
+#: .\iclock\models.py:264 
+
+msgid "the host city"
+msgstr "cidade anfitriã"
+
+#: .\iclock\models.py:265 
+
+msgid "Access Function"
+msgstr "Função de Acesso"
+
+#: .\iclock\models.py:333 .\iclock\models.py:636 .\iclock\models.py:743 
+
+#: .\iclock\models.py:770 .\iclock\models.py:802 .\iclock\models.py:892
+#: .\templates\devlog_list.html.py:10 .\templates\dlogcheck.html.py:38
+#: .\templates\employee_edit.html.py:37 .\templates\employee_list.html.py:16
+#: .\templates\employee_list.html.py:169 .\templates\employee_list.html.py:181
+#: .\templates\iclock_edit.html.py:31 .\templates\iclock_list.html.py:169
+#: .\templates\upload.html.py:23
+msgid "device"
+msgstr "dispositivo"
+
+#: .\iclock\models.py:360 .\templates\User_list.html.py:7 
+
+msgid "granted department"
+msgstr "departamento concedido"
+
+#: .\iclock\models.py:366 
+
+msgid "admin granted department"
+msgstr "departamento adm. concedido"
+
+#: .\iclock\models.py:392 
+
+msgid "Male"
+msgstr "Masculino"
+
+#: .\iclock\models.py:393 
+
+msgid "Female"
+msgstr "Feminino"
+
+#: .\iclock\models.py:398 
+
+msgid "Normal"
+msgstr "Normal"
+
+#: .\iclock\models.py:399 
+
+msgid "Registrar"
+msgstr "Registrar"
+
+#: .\iclock\models.py:400 
+
+msgid "Administrator"
+msgstr "Administrador"
+
+#: .\iclock\models.py:401 .\templates\User_list.html.py:7 
+
+msgid "Supervisor"
+msgstr "Supervisor"
+
+#: .\iclock\models.py:423 .\templates\dlogcheck.html.py:38 
+
+#: .\templates\logcheck.html.py:41 .\templates\transaction_list.html.py:8
+msgid "PIN"
+msgstr "PIN"
+
+#: .\iclock\models.py:425 
+
+msgid "name"
+msgstr "nome"
+
+#: .\iclock\models.py:427 
+
+msgid "ID Card"
+msgstr "Cartão  Id."
+
+#: .\iclock\models.py:428 
+
+msgid "privilege"
+msgstr "privilégio"
+
+#: .\iclock\models.py:429 
+
+msgid "Access Group"
+msgstr "Grupo de Acesso"
+
+#: .\iclock\models.py:430 
+
+msgid "Access Timezone"
+msgstr "Fuso Horário para Acesso"
+
+#: .\iclock\models.py:431 
+
+msgid "sex"
+msgstr "sexo"
+
+#: .\iclock\models.py:432 
+
+msgid "birthday"
+msgstr "aniversário"
+
+#: .\iclock\models.py:433 
+
+msgid "address"
+msgstr "endereço"
+
+#: .\iclock\models.py:434 
+
+msgid "postcode"
+msgstr "CEP"
+
+#: .\iclock\models.py:435 
+
+msgid "office phone"
+msgstr "tel. comercial"
+
+#: .\iclock\models.py:436 
+
+msgid "home phone"
+msgstr "tel. residencial"
+
+#: .\iclock\models.py:437 
+
+msgid "mobile"
+msgstr "celular"
+
+#: .\iclock\models.py:438 
+
+msgid "nationality"
+msgstr "nacionalidade"
+
+#: .\iclock\models.py:439 
+
+msgid "title"
+msgstr "título"
+
+#: .\iclock\models.py:440 
+
+msgid "registration device"
+msgstr "dispositivo de registro"
+
+#: .\iclock\models.py:441 
+
+msgid "social insurance num"
+msgstr "No. seguridade social"
+
+#: .\iclock\models.py:442 .\iclock\models.py:582 
+
+msgid "refresh time"
+msgstr "tempo de atualização"
+
+#: .\iclock\models.py:443 
+
+msgid "participate in the working date"
+msgstr "data de admissão"
+
+#: .\iclock\models.py:457 
+
+msgid "left"
+msgstr "demissão"
+
+#: .\iclock\models.py:490 
+
+#, python-format
+msgid "Employee PIN %s not found"
+msgstr "O PIN do funcionário %s não foi encontrado."
+
+#: .\iclock\models.py:509 
+
+#, python-format
+msgid "Duplicated Employee PIN: %s"
+msgstr "PIN do Funcionário Duplicado : %s"
+
+#: .\iclock\models.py:536 .\iclock\models.py:632 
+
+#: .\templates\department_list.html.py:7
+msgid "employee"
+msgstr "funcionário"
+
+#: .\iclock\models.py:603 
+
+msgid "fingerprint"
+msgstr "impressão digital"
+
+#: .\iclock\models.py:607 .\iclock\models.py:610 
+
+msgid "Card"
+msgstr "Cartão"
+
+#: .\iclock\models.py:609 .\iclock\templatetags\iclock_tags.py:128 
+
+msgid "Fingerprint"
+msgstr "Impressão digital"
+
+#: .\iclock\models.py:611 
+
+msgid "Other"
+msgstr "Outro"
+
+#: .\iclock\models.py:615 .\iclock\models.py:621 
+
+msgid "Check in"
+msgstr "Chegada"
+
+#: .\iclock\models.py:616 .\iclock\models.py:622 
+
+msgid "Check out"
+msgstr "Saída"
+
+#: .\iclock\models.py:617 
+
+msgid "Meal start"
+msgstr "Início da refeição"
+
+#: .\iclock\models.py:618 
+
+msgid "Meal end"
+msgstr "Término da refeição"
+
+#: .\iclock\models.py:619 .\iclock\models.py:623 
+
+msgid "Break in"
+msgstr "Início do intervalo"
+
+#: .\iclock\models.py:620 .\iclock\models.py:624 
+
+msgid "Break out"
+msgstr "Término do intervalo"
+
+#: .\iclock\models.py:625 
+
+msgid "Overtime in"
+msgstr "Início de hora extra"
+
+#: .\iclock\models.py:626 
+
+msgid "Overtime out"
+msgstr "Término de hora extra"
+
+#: .\iclock\models.py:627 
+
+msgid "Test Data"
+msgstr "Dados de Teste"
+
+#: .\iclock\models.py:633 .\iclock\models.py:746 .\iclock\models.py:910 
+
+#: .\templates\dlogcheck.html.py:38
+msgid "time"
+msgstr "hora"
+
+#: .\iclock\models.py:634 
+
+msgid "state"
+msgstr "estado"
+
+#: .\iclock\models.py:635 
+
+msgid "verification"
+msgstr "verificação"
+
+#: .\iclock\models.py:638 
+
+msgid "work code"
+msgstr "código de trabalho"
+
+#: .\iclock\models.py:639 
+
+msgid "Reserved"
+msgstr "Reservado"
+
+#: .\iclock\models.py:647 .\templates\iclock_list.html.py:16 
+
+#: .\templates\transaction_list.html.py:12
+msgid "transaction"
+msgstr "transação"
+
+#: .\iclock\models.py:648 
+
+msgid "transactions"
+msgstr "transações"
+
+#: .\iclock\models.py:656 
+
+msgid "open"
+msgstr "aberto"
+
+#: .\iclock\models.py:657 
+
+msgid "shutdown"
+msgstr "fechado"
+
+#: .\iclock\models.py:658 
+
+msgid "validation failure"
+msgstr "falha de validação"
+
+#: .\iclock\models.py:659 
+
+msgid "alarm"
+msgstr "alarme"
+
+#: .\iclock\models.py:660 
+
+msgid "enter the menu"
+msgstr "entrar no menu"
+
+#: .\iclock\models.py:661 
+
+msgid "change settings"
+msgstr "mudar configurações"
+
+#: .\iclock\models.py:662 
+
+msgid "registration fingerprint"
+msgstr "impressão digital de registro"
+
+#: .\iclock\models.py:663 
+
+msgid "registration password"
+msgstr "senha de registro"
+
+#: .\iclock\models.py:664 
+
+msgid "HID card registration"
+msgstr "registro do cartão HID"
+
+#: .\iclock\models.py:665 
+
+msgid "delete User"
+msgstr "deletar Usuário"
+
+#: .\iclock\models.py:666 
+
+msgid "delete fingerprints"
+msgstr "deletar impressões digitais"
+
+#: .\iclock\models.py:667 
+
+msgid "delete the password"
+msgstr "deletar a senha"
+
+#: .\iclock\models.py:668 
+
+msgid "delete RF card"
+msgstr "deletar o cartão RF"
+
+#: .\iclock\models.py:669 
+
+msgid "remove data"
+msgstr "remover dados"
+
+#: .\iclock\models.py:670 
+
+msgid "MF create cards"
+msgstr "criar cartões MF"
+
+#: .\iclock\models.py:671 .\iclock\models.py:672 
+
+msgid "MF registration cards"
+msgstr "cartões de registro MF"
+
+#: .\iclock\models.py:673 
+
+msgid "MF registration card deleted"
+msgstr "cartão de registro MF deletado"
+
+#: .\iclock\models.py:674 
+
+msgid "MF clearance card content"
+msgstr "Deletar o conteúdo do cartão MF"
+
+#: .\iclock\models.py:675 
+
+msgid "moved to the registration card data"
+msgstr "movido para os dados do cartão de registro"
+
+#: .\iclock\models.py:676 
+
+msgid "the data in the card copied to the machine"
+msgstr "dados no cartão copiados para a máquina"
+
+#: .\iclock\models.py:677 
+
+msgid "set time"
+msgstr "definir hora"
+
+#: .\iclock\models.py:678 
+
+msgid "restore factory settings"
+msgstr "restaurar configurações de fábrica"
+
+#: .\iclock\models.py:679 
+
+msgid "delete records access"
+msgstr "deletar acesso dos registros"
+
+#: .\iclock\models.py:680 
+
+msgid "remove administrator rights"
+msgstr "remover os direitos do administrador"
+
+#: .\iclock\models.py:681 
+
+msgid "group set up to amend Access"
+msgstr "correção das configurações do grupo de acesso"
+
+#: .\iclock\models.py:682 
+
+msgid "modify user access control settings"
+msgstr "modificar configurações de controle de acesso do usuário"
+
+#: .\iclock\models.py:683 
+
+msgid "access time to amend paragraph"
+msgstr "correção do tempo de acesso"
+
+#: .\iclock\models.py:684 
+
+msgid "amend unlock Portfolio"
+msgstr "correção do Portfolio de desbloqueio"
+
+#: .\iclock\models.py:685 
+
+msgid "unlock"
+msgstr "desbloquear"
+
+#: .\iclock\models.py:686 
+
+msgid "registration of new users"
+msgstr "registro de novos usuários"
+
+#: .\iclock\models.py:687 
+
+msgid "fingerprint attribute changes"
+msgstr "mudanças no atributo da impressão digital"
+
+#: .\iclock\models.py:688 
+
+msgid "stress alarm"
+msgstr "alarme de compulsão"
+
+#: .\iclock\models.py:729 
+
+msgid "Door Close Detected"
+msgstr "Detecção de Porta Fechada"
+
+#: .\iclock\models.py:730 
+
+msgid "Door Open Detected"
+msgstr "Detecção de Porta Aberta"
+
+#: .\iclock\models.py:731 
+
+msgid "Machine Been Broken"
+msgstr "Máquina Quebrada"
+
+#: .\iclock\models.py:732 
+
+msgid "Out Door Button"
+msgstr "Botão de Saída"
+
+#: .\iclock\models.py:733 
+
+msgid "Door Broken Accidentally"
+msgstr "Porta Quebrada Acidentalmente"
+
+#: .\iclock\models.py:734 
+
+msgid "Alarm Cancelled"
+msgstr "Alarme Cancelado"
+
+#: .\iclock\models.py:744 
+
+msgid "device administrator"
+msgstr "administrador do dispositivo"
+
+#: .\iclock\models.py:745 
+
+msgid "Operation"
+msgstr "Operação"
+
+#: .\iclock\models.py:747 
+
+msgid "Object"
+msgstr "Objeto"
+
+#: .\iclock\models.py:748 
+
+msgid "Parameter1"
+msgstr "Parâmetro1"
+
+#: .\iclock\models.py:749 
+
+msgid "Parameter2"
+msgstr " Parâmetro2"
+
+#: .\iclock\models.py:750 
+
+msgid "Parameter3"
+msgstr " Parâmetro3"
+
+#: .\iclock\models.py:762 
+
+msgid "devive operation log"
+msgstr "registro de operação de dispositivo"
+
+#: .\iclock\models.py:763 
+
+msgid "device operation logs"
+msgstr "registros de operação de dispositivo"
+
+#: .\iclock\models.py:771 .\iclock\models.py:912 
+
+msgid "data"
+msgstr "dados"
+
+#: .\iclock\models.py:772 .\iclock\models.py:914 
+
+msgid "object"
+msgstr "Objeto"
+
+#: .\iclock\models.py:773 
+
+msgid "record count"
+msgstr "contagem de registros"
+
+#: .\iclock\models.py:774 
+
+msgid "error count"
+msgstr "contagem de erros"
+
+#: .\iclock\models.py:775 
+
+msgid "upload time"
+msgstr "hora do carregamento"
+
+#: .\iclock\models.py:784 
+
+msgid "log of data from device"
+msgstr "registro dos dados do dispositivo"
+
+#: .\iclock\models.py:804 
+
+msgid "command content"
+msgstr "conteúdo do comando"
+
+#: .\iclock\models.py:805 
+
+msgid "submit time"
+msgstr "hora do envio"
+
+#: .\iclock\models.py:807 
+
+msgid "return time"
+msgstr "hora do retorno"
+
+#: .\iclock\models.py:808 
+
+msgid "return value"
+msgstr "valor do retorno"
+
+#: .\iclock\models.py:809 .\iclock\models.py:911 
+
+msgid "administrator"
+msgstr "Administrador"
+
+#: .\iclock\models.py:830 
+
+msgid "log of command to device"
+msgstr "registro de comando para o dispositivo"
+
+#: .\iclock\models.py:859 .\iclock\models.py:868 
+
+msgid "News Channel"
+msgstr "Canal de Notícias"
+
+#: .\iclock\models.py:861 
+
+msgid "Notice System"
+msgstr "Sistema de Notificação"
+
+#: .\iclock\models.py:862 
+
+msgid "Companies short message"
+msgstr "Mensagem curta das empresas"
+
+#: .\iclock\models.py:866 
+
+msgid "Weather Forecast"
+msgstr "Previsão do Tempo"
+
+#: .\iclock\models.py:867 
+
+msgid "Employee SMS"
+msgstr "SMS do Funcionário"
+
+#: .\iclock\models.py:870 
+
+msgid "System Notice"
+msgstr "Sistema de Notificação"
+
+#: .\iclock\models.py:871 
+
+msgid "Companies SMS"
+msgstr "SMS das empresas"
+
+#: .\iclock\models.py:875 .\iclock\models.py:893 
+
+msgid "type"
+msgstr "tipo"
+
+#: .\iclock\models.py:876 .\iclock\models.py:894 
+
+msgid "take effect"
+msgstr "levar a efeito"
+
+#: .\iclock\models.py:877 .\iclock\models.py:895 
+
+msgid "out-of-service"
+msgstr "fora de serviço"
+
+#: .\iclock\models.py:878 
+
+msgid "Content"
+msgstr "Conteúdo"
+
+#: .\iclock\models.py:879 
+
+msgid "picture"
+msgstr "figura"
+
+#: .\iclock\models.py:880 
+
+msgid "company/department"
+msgstr "empresa/departamento"
+
+#: .\iclock\models.py:881 .\iclock\models.py:896 
+
+msgid "parameter"
+msgstr "parâmetro"
+
+#: .\iclock\models.py:887 
+
+# update by wjw 2011-06-13
+#msgid "public information"
+#msgstr "informação pública"
+msgid "public information"
+msgstr "informação pública"
+
+#: .\iclock\models.py:897 
+
+msgid "content"
+msgstr "conteúdo"
+
+#: .\iclock\models.py:898 
+
+msgid "recently service"
+msgstr "serviço recente"
+
+#: .\iclock\models.py:906 
+
+# update by wjw 2011-06-13
+#msgid "information subscription"
+#msgstr "subscrição de informações"
+msgid "information subscription"
+msgstr "subscrição de informações"
+
+#: .\iclock\models.py:913 
+
+msgid "operation"
+msgstr "operação"
+
+#: .\iclock\models.py:915 
+
+msgid "amount"
+msgstr "quantidade"
+
+#: .\iclock\models.py:921 
+
+msgid "administration log"
+msgstr "registro da administração"
+
+#: .\iclock\models.py:922 
+
+msgid "administration logs"
+msgstr "registros da administração"
+
+#: .\iclock\models.py:1307 
+
+#, python-format
+msgid "Can browse %s"
+msgstr "Pode navegar %s"
+
+#: .\iclock\setoption.py:22 
+
+msgid "YES"
+msgstr "SIM"
+
+#: .\iclock\setoption.py:23 
+
+msgid "NO"
+msgstr "NÃO"
+
+#: .\iclock\setoption.py:28 
+
+msgid "You must change options from your website!"
+msgstr "Você deve alterar as opções do seu site!"
+
+#: .\iclock\setoption.py:48 
+
+msgid "Set options OK!"
+msgstr "Definição de opções OK!"
+
+#: .\iclock\taskview.py:29 
+
+#, python-format
+msgid "No permission to do on device %s!"
+msgstr "Sem permissão para executar no dispositivo %s!"
+
+#: .\iclock\taskview.py:36 
+
+#, python-format
+msgid "No permission to download employee data to device %s!"
+msgstr "Sem permissão para baixar dados de funcionários para o dispositivo %s!"
+
+#: .\iclock\taskview.py:41 
+
+msgid "Not specified a device!"
+msgstr "Dispositivo não especificado!"
+
+#: .\iclock\taskview.py:69 .\iclock\taskview.py:71 
+
+msgid "Designated employee does not exist!"
+msgstr "Funcionário designado não existe!"
+
+#: .\iclock\taskview.py:75 
+
+#, python-format
+msgid "No permission to deete the employee's in device %s"
+msgstr "Sem permissão para deletar o funcionário no dispositivo %s"
+
+#: .\iclock\taskview.py:81 
+
+#, python-format
+msgid ""
+"Not specified a device, and no permission to delete employee from device %s."
+msgstr "Dispositivo não especificado, e sem permissão para deletar funcionário do dispositivo %s"
+
+#: .\iclock\taskview.py:83 
+
+msgid "Not specified a device, and the employee has no a enrollment device."
+msgstr "Dispositivo não especificado e o funcionário não tem um dispositivo de matrícula."
+
+#: .\iclock\taskview.py:103 
+
+#, python-format
+msgid "%s is not a valid PIN."
+msgstr "%s não é um PIN válido"
+
+#: .\iclock\taskview.py:124 
+
+msgid ""
+"Not specified a valid device, or the employee has no a enrollment device!"
+msgstr "Dispositivo válido não especificado, ou o funcionário não tem um dispositivo de matrícula!"
+
+#: .\iclock\taskview.py:126 
+
+msgid "The employee no in the database."
+msgstr "O funcionário não está no banco de dados."
+
+#: .\iclock\taskview.py:148 
+
+msgid "Delete employee from device"
+msgstr "Deletar funcionário do dispositivo"
+
+#: .\iclock\taskview.py:149 
+
+msgid "Download employee's name to device"
+msgstr "Baixar o nome do funcionário para o dispositivo."
+
+#: .\iclock\taskview.py:150 
+
+msgid "Dispatch employee to device"
+msgstr "Enviar o funcionário para o dispositivo."
+
+#: .\iclock\taskview.py:189 
+
+#, python-format
+msgid ""
+"%s employee's data is ready to transfer, but following record(s) is missing:"
+msgstr "%s dados do funcionário prontos para transferir, mas o(s) seguinte(s) registro(s) está (ão) faltando:"
+
+#: .\iclock\taskview.py:191 
+
+msgid "There are wrong: "
+msgstr "Informações ausentes :"
+
+#: .\iclock\taskview.py:195 
+
+#, python-format
+msgid "%s employee(s) data is ready to transfer."
+msgstr "%s dados do(s) funcionário(s) prontos para transferir."
+
+#: .\iclock\taskview.py:208 
+
+msgid "Dispatch employee data to device"
+msgstr "Enviar os dados do funcionário para dispositivo."
+
+#: .\iclock\taskview.py:235 
+
+msgid "Upload employee list"
+msgstr "Carregar a lista de funcionários"
+
+#: .\iclock\taskview.py:268 
+
+#, python-format
+msgid "%(object)s employee has been successfully!"
+msgstr "%(object)s funcionário foi bem sucedido!"
+
+#: .\iclock\taskview.py:274 
+
+msgid "Delete the employee(s) in device"
+msgstr "Deletar funcionário(s) no dispositivo"
+
+#: .\iclock\taskview.py:279 
+
+msgid "Server upgrades"
+msgstr "Atualizações do servidor"
+
+#: .\iclock\taskview.py:319 
+
+msgid "Restart device successfully: "
+msgstr "Reiniciar dispositivo com êxito: "
+
+#: .\iclock\taskview.py:319 
+
+#, python-format
+msgid ""
+"Its size and standard firmware(%(object_name)s) is inconsistent, Need to "
+"upgrade firmware If there is no automatic inspection later firmware update, "
+"or manually upgrade firmware"
+msgstr "Tamanho e padrão firmware(%(object_name)s) está inconsistente, precisa atualizar firmware se não houver inspeção automática de atualização do firmware posteriormente, ou manualmente atualizar firmware"
+
+#: .\iclock\taskview.py:321 
+
+msgid "Failure to restart device:"
+msgstr "Falha para reiniciar o dispositivo:"
+
+#: .\iclock\taskview.py:323 
+
+msgid "Please enter the IP address of the device"
+msgstr "Favor, digitar endereço IP do dispositivo"
+
+#: .\iclock\taskview.py:324 
+
+msgid "Restart device"
+msgstr "Reiniciar dispositivo"
+
+#: .\iclock\taskview.py:331 
+
+msgid "Automatically check sluggish device"
+msgstr "Verificar dispositivo lento automaticamente"
+
+#: .\iclock\taskview.py:331 
+
+msgid ""
+"The device(s) does not connect with the server more than half and an hour: </"
+"p><p>"
+msgstr "O(s) dispositivo(s) não conecta(am) com o servidor por mais de uma hora e meia: </p><p>"
+
+#: .\iclock\taskview.py:331 
+
+msgid ""
+"The system will connect and re-start the following device automaticly: </"
+"p><p>"
+msgstr "O sistema irá conectar e reiniciar o dispositivo seguinte automaticamente: </p><p>"
+
+#: .\iclock\weatherview.py:27 
+
+msgid "device:"
+msgstr "dispositivo:"
+
+#: .\iclock\templatetags\iclock_tags.py:127 
+
+msgid "Personnel information"
+msgstr "Informações da equipe"
+
+#: .\iclock\templatetags\iclock_tags.py:129 
+
+msgid "Del employee"
+msgstr "Deletar funcionário"
+
+#: .\iclock\templatetags\iclock_tags.py:130 
+
+msgid "Del fingerprint"
+msgstr "Deletar impressão digital"
+
+#: .\iclock\templatetags\iclock_tags.py:131 
+
+msgid "Check the server configuration"
+msgstr "Verificar configuração do usuário"
+
+#: .\iclock\templatetags\iclock_tags.py:132 
+
+msgid "Updated device information on the server"
+msgstr "Informação do dispositivo atualizada no servidor"
+
+#: .\iclock\templatetags\iclock_tags.py:133 
+
+msgid "Remove transaction"
+msgstr "Remover transação"
+
+#: .\iclock\templatetags\iclock_tags.py:134 
+
+msgid "restart device"
+msgstr "reiniciar dispositivo"
+
+#: .\iclock\templatetags\iclock_tags.py:135 
+
+msgid "reboot device"
+msgstr "reiniciar dispositivo"
+
+#: .\iclock\templatetags\iclock_tags.py:136 
+
+msgid "Check and upload the new data"
+msgstr "Verificar e carregar dados novos"
+
+#: .\iclock\templatetags\iclock_tags.py:137 
+
+msgid "Send file to the device"
+msgstr "Enviar arquivo para dispositivo"
+
+#: .\iclock\templatetags\iclock_tags.py:138 
+
+msgid "Get file from the equipment"
+msgstr "Obter arquivo do equipamento"
+
+#: .\iclock\templatetags\iclock_tags.py:139 
+
+msgid "Run a device shell command"
+msgstr "Rodar comando Shell de dispositivo"
+
+#: .\iclock\templatetags\iclock_tags.py:140 
+
+msgid "Change configuration"
+msgstr "Mudar configuração"
+
+#: .\iclock\templatetags\iclock_tags.py:141 
+
+msgid "Clear all data"
+msgstr "Limpar todos os dados"
+
+#: .\iclock\templatetags\iclock_tags.py:142 .\templates\Group_edit.html.py:145
+#: .\templates\iclock_list.html.py:187
+msgid "Output unlock signal"
+msgstr "Sinal de destravamento de saída"
+
+#: .\iclock\templatetags\iclock_tags.py:143 .\templates\Group_edit.html.py:146
+#: .\templates\iclock_list.html.py:188
+msgid "Terminate alarm signal"
+msgstr "Finalizar sinal de alarme"
+
+#: .\iclock\templatetags\iclock_tags.py:150 
+
+msgid "Unknown command"
+msgstr "Comando desconhecido"
+
+#: .\iclock\templatetags\iclock_tags.py:157 
+
+msgid "Transaction"
+msgstr "Transação"
+
+#: .\iclock\templatetags\iclock_tags.py:158 
+
+msgid "employee info/fingerprint "
+msgstr "info/impressão digital de funcionário"
+
+#: .\templates\404.html.py:4 .\templates\404.html.py:8 
+
+#: .\templates\admin\404.html.py:4 .\templates\admin\404.html.py:8
+msgid "Page not found"
+msgstr "Página não encontrada"
+
+#: .\templates\404.html.py:10 
+
+msgid "Sorry,you have no the permission or the page doesn't exist!"
+msgstr "Desculpe, você não tem permissão ou página não existe!"
+
+#: .\templates\Group_edit.html.py:84 
+
+msgid " iclock "
+msgstr "iclock"
+
+#: .\templates\Group_edit.html.py:93 .\templates\Group_edit.html.py:112 
+
+#: .\templates\Group_edit.html.py:128 .\templates\data_edit.html.py:8
+#: .\templates\admin\change_form.html.py:15 .\templates\admin\index.html.py:28
+msgid "Add"
+msgstr "Adicionar"
+
+#: .\templates\Group_edit.html.py:94 .\templates\Group_edit.html.py:113 
+
+#: .\templates\Group_edit.html.py:129
+msgid "Browse"
+msgstr "Navegar"
+
+#: .\templates\Group_edit.html.py:96 .\templates\Group_edit.html.py:116 
+
+#: .\templates\Group_edit.html.py:134
+#: .\templates\admin\delete_confirmation.html.py:9
+#: .\templates\admin\submit_line.html.py:3
+msgid "Delete"
+msgstr "Deletar"
+
+#: .\templates\Group_edit.html.py:99 
+
+msgid " department "
+msgstr "departamento"
+
+#: .\templates\Group_edit.html.py:99 
+
+msgid " employee "
+msgstr " funcionário "
+
+#: .\templates\Group_edit.html.py:100 
+
+msgid " device "
+msgstr " dispositivo "
+
+#: .\templates\Group_edit.html.py:100 
+
+msgid " transaction "
+msgstr "transação "
+
+#: .\templates\Group_edit.html.py:101 
+
+msgid " administration log "
+msgstr " registro da administração "
+
+#: .\templates\Group_edit.html.py:102 
+
+msgid " information subscription "
+msgstr "subscrição da informação"
+
+#: .\templates\Group_edit.html.py:103 
+
+msgid " public information "
+msgstr "informação pública "
+
+#: .\templates\Group_edit.html.py:105 
+
+msgid " log of command to device "
+msgstr "registro de comando para o dispositivo "
+
+#: .\templates\Group_edit.html.py:106 
+
+msgid " log of data from device "
+msgstr " registro de dados do dispositivo "
+
+#: .\templates\Group_edit.html.py:107 
+
+msgid " operation log "
+msgstr " registro da operação "
+
+#: .\templates\Group_edit.html.py:115 .\templates\employee_list.html.py:191 
+
+msgid "Delete employee from the device"
+msgstr "Deletar funcionário do dispositivo"
+
+#: .\templates\Group_edit.html.py:117 .\templates\employee_list.html.py:192 
+
+msgid "Employee leave"
+msgstr "Aposentadoria"
+
+#: .\templates\Group_edit.html.py:118 .\templates\employee_list.html.py:193 
+
+msgid "Move employee to a new device"
+msgstr "Mover funcionário para novo dispositivo"
+
+#: .\templates\Group_edit.html.py:119 .\templates\employee_list.html.py:183 
+
+#: .\templates\employee_list.html.py:194
+msgid "Change employee's department"
+msgstr "Mudar departamento do funcionário"
+
+#: .\templates\Group_edit.html.py:120 .\templates\employee_list.html.py:190 
+
+msgid "Transfer to the device temporarily"
+msgstr "Transferir para dispositivo temporariamente"
+
+#: .\templates\Group_edit.html.py:121 .\templates\employee_list.html.py:16 
+
+#: .\templates\employee_list.html.py:169 .\templates\employee_list.html.py:174
+#: .\templates\employee_list.html.py:189
+msgid "Transfer employee to the device"
+msgstr "Transferir funcionário para dispositivo"
+
+#: .\templates\Group_edit.html.py:131 .\templates\iclock_list.html.py:181 
+
+msgid "Clear data in device"
+msgstr "Limpar dados no dispositivo"
+
+#: .\templates\Group_edit.html.py:132 .\templates\iclock_list.html.py:182 
+
+msgid "Clear transactions in device"
+msgstr "Limpar transações no dispositivo"
+
+#: .\templates\Group_edit.html.py:133 
+
+msgid "Copy data between device"
+msgstr "Copiar dados entre dispositivos"
+
+#: .\templates\Group_edit.html.py:135 .\templates\iclock_list.html.py:184 
+
+msgid "Set power suspend"
+msgstr "Configurações de gerenciamento de potência (em minutos)"
+
+msgid "set power suspend"
+msgstr "Configurações de gerenciamento de potência"
+
+#: .\templates\Group_edit.html.py:136 .\templates\iclock_list.html.py:178 
+
+msgid "Refresh device information"
+msgstr "Atualizar informações de dispositivo"
+
+#: .\templates\Group_edit.html.py:137 .\templates\iclock_list.html.py:180 
+
+msgid "Upload new data"
+msgstr "Carregar novos dados"
+
+#: .\templates\Group_edit.html.py:138 
+
+msgid "Pause device"
+msgstr "Pausa de dispositivo"
+
+#: .\templates\Group_edit.html.py:139 .\templates\iclock_list.html.py:179 
+
+msgid "Reboot device"
+msgstr "Reiniciar dispositivo"
+
+#: .\templates\Group_edit.html.py:140 .\templates\iclock_list.html.py:176 
+
+msgid "Upload data again"
+msgstr "Carregar dados novamente"
+
+#: .\templates\Group_edit.html.py:141 .\templates\iclock_list.html.py:177 
+
+msgid "Upload transactions again"
+msgstr "Carregar transações novamente"
+
+#: .\templates\Group_edit.html.py:142 
+
+msgid "Reset Password in device"
+msgstr "Redefinir senha no dispositivo"
+
+#: .\templates\Group_edit.html.py:143 .\templates\iclock_list.html.py:186 
+
+msgid "Restore employee to device"
+msgstr "Restaurar funcionário para dispositivo"
+
+#: .\templates\Group_edit.html.py:144 
+
+msgid "Resume a resumed device"
+msgstr "Retomar um dispositivo reaberto"
+
+#: .\templates\Group_edit.html.py:147 .\templates\iclock_list.html.py:174 
+
+msgid "Upgrade firmware"
+msgstr "Atualizar firmware"
+
+#: .\templates\Group_list.html.py:4 
+
+msgid "GroupID"
+msgstr "GrupoID"
+
+#: .\templates\IclockMsg_list.html.py:15 
+
+msgid "Weather Forecast test"
+msgstr "Teste de Previsão do Tempo"
+
+#: .\templates\IclockMsg_list.html.py:16 
+
+msgid "Generating device customized information"
+msgstr "Gerando informações de dispositivo personalizado"
+
+#: .\templates\User_list.html.py:7 
+
+msgid "Activate"
+msgstr "Ativar"
+
+#: .\templates\User_list.html.py:7 
+
+msgid "Groups"
+msgstr "Grupos"
+
+#: .\templates\base.html.py:35 .\templates\admin\base.html.py:28 
+
+msgid "Welcome,"
+msgstr "Bem-vindo"
+
+#: .\templates\base.html.py:35 .\templates\admin\base.html.py:28 
+
+#: .\templates\admin\change_form.html.py:10
+#: .\templates\admin\change_list.html.py:5
+#: .\templates\admin\delete_confirmation.html.py:3
+#: .\templates\admin\object_history.html.py:3
+#: .\templates\admin\auth\user\change_password.html.py:9
+#: .\templates\admin\auth\user\change_password.html.py:15
+#: .\templates\admin\auth\user\change_password.html.py:46
+#: .\templates\registration\password_change_done.html.py:3
+#: .\templates\registration\password_change_form.html.py:3
+msgid "Change password"
+msgstr "Mudar senha"
+
+#: .\templates\base.html.py:35 .\templates\admin\base.html.py:28 
+
+#: .\templates\admin\change_form.html.py:10
+#: .\templates\admin\change_list.html.py:5
+#: .\templates\admin\delete_confirmation.html.py:3
+#: .\templates\admin\object_history.html.py:3
+#: .\templates\admin\auth\user\change_password.html.py:9
+#: .\templates\registration\password_change_done.html.py:3
+#: .\templates\registration\password_change_form.html.py:3
+msgid "Log out"
+msgstr "Saída"
+
+#: .\templates\base.html.py:35 
+
+msgid "help"
+msgstr "ajuda"
+
+#: .\templates\base.html.py:42 .\templates\setoption.html.py:12 
+
+msgid "--- Language ---"
+msgstr "--- Idioma ---"
+
+#: .\templates\base.html.py:57 .\templates\data_edit.html.py:6 
+
+#: .\templates\setoption.html.py:6 .\templates\upload.html.py:6
+#: .\templates\admin\500.html.py:4 .\templates\admin\base.html.py:33
+#: .\templates\admin\change_form.html.py:13
+#: .\templates\admin\change_list.html.py:6
+#: .\templates\admin\delete_confirmation.html.py:6
+#: .\templates\admin\invalid_setup.html.py:4
+#: .\templates\admin\object_history.html.py:5
+#: .\templates\admin\auth\user\change_password.html.py:12
+#: .\templates\registration\logged_out.html.py:4
+#: .\templates\registration\password_change_done.html.py:4
+#: .\templates\registration\password_change_form.html.py:4
+#: .\templates\registration\password_reset_done.html.py:4
+#: .\templates\registration\password_reset_form.html.py:4
+msgid "Home"
+msgstr "Página Principal"
+
+#: .\templates\base_site.html.py:6 .\templates\admin\base_site.html.py:7 
+
+msgid "iClock Automatic Data Master Server"
+msgstr "Servidor Mestre Automático de Dados iClock"
+
+#: .\templates\base_site.html.py:12 .\templates\logcheck.html.py:43 
+
+#: .\templates\upload.html.py:51
+msgid "Device"
+msgstr "Dispositivo"
+
+#: .\templates\base_site.html.py:15 
+
+msgid "Device Maintenance"
+msgstr "Manutenção do Dispositivo"
+
+#: .\templates\base_site.html.py:18 .\templates\base_site.html.py:21 
+
+#: .\templates\iclock_list.html.py:20
+msgid "Transaction Monitor"
+msgstr "Monitor de Transações"
+
+#: .\templates\base_site.html.py:32 .\templates\iclock_list.html.py:35 
+
+msgid "Data"
+msgstr "Dados"
+
+#: .\templates\base_site.html.py:40 
+
+msgid "Import U_Disk Data"
+msgstr "Importar Dados do Disco_U"
+
+#: .\templates\base_site.html.py:47 .\templates\admin\base_site.html.py:4 
+
+msgid "System"
+msgstr "Sistema"
+
+#: .\templates\data_edit.html.py:4 
+
+msgid "detail"
+msgstr "detalhe"
+
+#: .\templates\data_edit.html.py:62 .\templates\setoption.html.py:64 
+
+msgid "Submit"
+msgstr "Enviar"
+
+#: .\templates\data_edit.html.py:63 .\templates\setoption.html.py:65 
+
+msgid "Return"
+msgstr "Retornar"
+
+#: .\templates\data_exp_def.html.py:126 .\templates\upgrade.html.py:18 
+
+msgid "ok"
+msgstr "ok"
+
+#: .\templates\data_exp_def.html.py:127 .\templates\disp_emp.html.py:29 
+
+#: .\templates\info.html.py:18 .\templates\upgrade.html.py:19
+msgid "return"
+msgstr "retornar"
+
+#: .\templates\data_list.html.py:20 
+
+msgid "Please set a template file"
+msgstr "Por favor, configurar um arquivo de modelo"
+
+#: .\templates\data_list.html.py:39 
+
+msgid "Clear all data, are you sure?"
+msgstr "Limpar todos os dados, tem certeza?"
+
+#: .\templates\data_list.html.py:50 .\templates\data_list.html.py:142 
+
+#: .\templates\filters.html.py:6 .\templates\iclock_list.html.py:275
+#: .\templates\admin\filters.html.py:4
+msgid "Filter"
+msgstr "Filtro"
+
+#: .\templates\data_list.html.py:117 .\templates\data_list.html.py:157 
+
+msgid "Export"
+msgstr "Exportar"
+
+#: .\templates\data_list.html.py:117 
+
+msgid "list"
+msgstr "lista"
+
+#: .\templates\data_list.html.py:117 
+
+msgid "format"
+msgstr "formato"
+
+#: .\templates\data_list.html.py:137 
+
+msgid "Search by:"
+msgstr "Pesquisar por :"
+
+#: .\templates\data_list.html.py:138 
+
+msgid "Search"
+msgstr "Pesquisa"
+
+#: .\templates\data_list.html.py:160 .\templates\data_list.html.py:162 
+
+msgid "Append"
+msgstr "Adicionar"
+
+#: .\templates\data_list.html.py:166 .\templates\data_list.html.py:168 
+
+msgid "Clear All"
+msgstr "Limpar Todos"
+
+#: .\templates\data_list.html.py:177 
+
+msgid "Operation for selected"
+msgstr "Operação para selecionado"
+
+#: .\templates\department_list.html.py:4 .\templates\employee_list.html.py:217
+#: 
+
+msgid "view"
+msgstr "visualizar"
+
+#: .\templates\department_list.html.py:7 
+
+msgid "Show the use of employee of the department"
+msgstr "Mostrar o departamento do funcionário"
+
+#: .\templates\department_list.html.py:16 
+
+msgid "delete"
+msgstr "deletar"
+
+#: .\templates\department_list.html.py:17 
+
+msgid ""
+"The operation will also remove these department-affiliated employee data"
+msgstr "A operação também irá remover estes dados do funcionário afiliado ao departamento"
+
+#: .\templates\department_list.html.py:23 
+
+msgid "Convinced that you want to delete all units"
+msgstr "Convencido de que você deseja deletar todas as unidades?"
+
+#: .\templates\department_list.html.py:23 
+
+msgid ""
+"The operation will also remove these department-affiliated personnel data"
+msgstr "A operação também irá remover estes dados da equipe afiliada ao departamento"
+
+#: .\templates\department_list.html.py:28 
+
+msgid "Delete the following departments will delete all the staff information"
+msgstr "Deletar os departamentos seguintes irá deletar todas as informações da equipe"
+
+#: .\templates\devcmds_list.html.py:10 
+
+msgid "Command content"
+msgstr "Conteúdo do comando"
+
+#: .\templates\devcmds_list.html.py:14 .\templates\devlog_list.html.py:10 
+
+#: .\templates\transaction_list.html.py:12
+msgid "at"
+msgstr "em"
+
+#: .\templates\devcmds_list.html.py:14 
+
+msgid "to device "
+msgstr "para o dispositivo "
+
+#: .\templates\devcmds_list.html.py:14 
+
+msgid "send command"
+msgstr "enviar comando"
+
+#: .\templates\devlog_list.html.py:10 
+
+msgid "transfer data log"
+msgstr "transferir registro dos dados"
+
+#: .\templates\disp_emp.html.py:11 
+
+msgid "Please select .txt file!"
+msgstr "Por favor, selecionar arquivo. txt!"
+
+#: .\templates\disp_emp.html.py:23 
+
+msgid "Upload file location:"
+msgstr "Carregar localização do arquivo:"
+
+#: .\templates\disp_emp.html.py:28 
+
+msgid "OK"
+msgstr "OK"
+
+#: .\templates\disp_emp.html.py:36 
+
+msgid "List upload the file format:"
+msgstr "Formato do arquivo de carregamento da lista :"
+
+#: .\templates\disp_emp.html.py:37 
+
+msgid "List upload file is a text file, can have more line:"
+msgstr "O arquivo de carregamento da lista é um arquivo de texto, pode ter mais de uma linha:"
+
+#: .\templates\disp_emp.html.py:39 
+
+msgid ""
+"List of file every line, there are three fields, that is, PIN,  name and "
+"device, each field with tabs between (TAB keys) separate:"
+msgstr "Lista de cada linha do arquivo, existem três campos, isto é, PIN, nome e dispositivo, cada campo com tabs entre (TAB keys) separados:"
+
+#: .\templates\disp_emp.html.py:42 
+
+msgid ""
+"List of file every line, there are two fields, that is, PIN, and device, "
+"between the two fields with tabs (TAB key) separate:"
+msgstr "Lista de cada linha do arquivo, existem dois campos, isto é, PIN, e dispositivo, entre os dois campos com tabs (TAB keys) separados:"
+
+#: .\templates\disp_emp.html.py:44 
+
+msgid ""
+"device can be the Serial number, it can also be a device name (IP address):"
+msgstr "dispositivo pode ser o número de série, também pode ser um nome de dispositivo (endereço IP):"
+
+#: .\templates\disp_emp.html.py:45 
+
+msgid "device may not specify for field:"
+msgstr "dispositivo não pode especificar para o campo:"
+
+#: .\templates\disp_emp.html.py:47 
+
+msgid ""
+"Assigned employee, if not in the database for the number of employee, the "
+"first add the new employee in the database:"
+msgstr "Funcionário atribuído, se não no banco de dados para o número de funcionário, o primeiro adiciona o novo funcionário no banco de dados:."
+
+#: .\templates\disp_emp.html.py:48 
+
+msgid ""
+"Assigned employee, if there is no specify device, only add the new employee "
+"in the database, not assigned to any device:"
+msgstr "Funcionário atribuído, se não houver dispositivo especificado, apenas adicionar o no novo funcionário no banco de dados, não atribuído a qualquer dispositivo:"
+
+#: .\templates\disp_emp.html.py:51 
+
+msgid ""
+"Delete the employee, if there is no specify device,not only delete the new "
+"employee in the database, and also  delete employee in the  register device "
+"and backup device:"
+msgstr "Deletar o funcionário, se não houver dispositivo especificado, não apenas deletar o novo funcionário no banco de dados, mas também deletar o funcionário no dispositivo de registro e no dispositivo de backup:"
+
+#: .\templates\disp_emp.html.py:54 
+
+msgid ""
+"Send names, if there are no specific device, the employee sent to the "
+"register device and backup device:"
+msgstr "Enviar nomes, se não houver dispositivo específico, o funcionário é enviado para o dispositivo de registro e dispositivo de backup:"
+
+#: .\templates\disp_emp.html.py:55 
+
+msgid ""
+"Send names, if there are no specific names, the first from the database to "
+"find the names of the employee sent to the device:"
+msgstr "Enviar nomes, se não houver nomes específicos, o primeiro do banco de dados para achar os nomes dos funcionários enviados para o dispositivo: "
+
+#: .\templates\disp_emp.html.py:56 
+
+msgid ""
+"If the specific name, but the name and inconsistencies in the database, or "
+"the database did not name, first name insert into the database:"
+msgstr "Se o nome for específico, mas houver inconsistência de nome no banco de dados, ou o banco de dados não nomear, o primeiro nome é inserido no banco de dados:"
+
+#: .\templates\disp_emp.html.py:57 
+
+msgid ""
+"If the specified number of employee in the database does not exist, the "
+"first in the database to join the employee:"
+msgstr "Se o número específico de funcionários no banco de dados não existir, o primeiro funcionário é registrado no banco de dados:"
+
+#: .\templates\disp_emp.html.py:61 
+
+msgid "Delete employee column :"
+msgstr " Deletar a coluna de funcionários :"
+
+#: .\templates\disp_emp.html.py:72 
+
+msgid "Assigned employee column:"
+msgstr "Coluna de funcionário atribuído:"
+
+#: .\templates\disp_emp.html.py:82 
+
+msgid "Send employee name:"
+msgstr "Enviar nome de funcionário:"
+
+#: .\templates\dlogcheck.html.py:38 
+
+msgid "Event"
+msgstr "Evento"
+
+#: .\templates\dlogcheck.html.py:39 
+
+msgid "Param1"
+msgstr "Parâmetro1"
+
+#: .\templates\dlogcheck.html.py:39 
+
+msgid "Param2"
+msgstr "Parâmetro2"
+
+#: .\templates\dlogcheck.html.py:91 .\templates\logcheck.html.py:89 
+
+msgid "get"
+msgstr "obter"
+
+#: .\templates\dlogcheck.html.py:91 .\templates\logcheck.html.py:89 
+
+msgid " new transaction"
+msgstr "nova transação"
+
+#: .\templates\dlogcheck.html.py:97 .\templates\logcheck.html.py:94 
+
+msgid "no new records"
+msgstr "sem novos registros"
+
+#: .\templates\dlogcheck.html.py:101 .\templates\logcheck.html.py:98 
+
+msgid "access to the latest data errors"
+msgstr "acesso aos erros de dados mais recentes"
+
+#: .\templates\employee_edit.html.py:9 .\templates\iclock_edit.html.py:15 
+
+msgid "Add Another"
+msgstr "Adicionar Outro"
+
+#: .\templates\employee_edit.html.py:10 
+
+msgid "Date format is "
+msgstr "Formato de data é "
+
+#: .\templates\employee_edit.html.py:10 
+
+msgid "for example"
+msgstr "por exemplo"
+
+#: .\templates\employee_edit.html.py:35 
+
+msgid "Select a device"
+msgstr "Selecionar um dispositivo"
+
+#: .\templates\employee_edit.html.py:37 .\templates\upload.html.py:56 
+
+msgid "select device"
+msgstr "selecionar um dispositivo"
+
+#: .\templates\employee_list.html.py:6 
+
+msgid ""
+"After the submission of the operation need to be about half a minute or so "
+"of device in the entry into force"
+msgstr "Depois de submeter a operação, o dispositivo exige cerca de meio minuto para ser habilitado."
+
+#: .\templates\employee_list.html.py:9 
+
+msgid "Sequence of input devices"
+msgstr "Sequência de dispositivos de entrada"
+
+#: .\templates\employee_list.html.py:21 
+
+msgid "Deleted from the device employee"
+msgstr "Deletar funcionário do dispositivo"
+
+#: .\templates\employee_list.html.py:21 
+
+msgid "Change employee department"
+msgstr "Mudar departamento de funcionário"
+
+#: .\templates\employee_list.html.py:31 
+
+msgid "Input Department #"
+msgstr "Introduzir Departamento"
+
+#: .\templates\employee_list.html.py:47 
+
+msgid "copy employee information"
+msgstr "copiar informações de funcionário"
+
+#: .\templates\employee_list.html.py:50 
+
+msgid "copy the following fields"
+msgstr "copiar os seguintes campos"
+
+#: .\templates\employee_list.html.py:53 
+
+msgid "To your choice in front of the other transaction"
+msgstr "Selecionar outra opção de transação"
+
+#: .\templates\employee_list.html.py:82 
+
+msgid "null"
+msgstr "nulo"
+
+#: .\templates\employee_list.html.py:117 
+
+msgid "You have no choice any character, for copying data"
+msgstr "Você não escolheu caractere para copiar os dados"
+
+#: .\templates\employee_list.html.py:126 
+
+msgid "You have no source of data, select"
+msgstr "Você não tem nenhuma fonte de dados, selecione"
+
+#: .\templates\employee_list.html.py:137 
+
+msgid "You have to choose at least two employee"
+msgstr "Você tem que escolher pelo menos dois funcionários"
+
+#: .\templates\employee_list.html.py:172 
+
+msgid "Transfer employee to the device temporarily"
+msgstr "Transferir funcionário para dispositivo temporariamente"
+
+#: .\templates\employee_list.html.py:181 
+
+msgid "Deleted employee from the device"
+msgstr "Deletar funcionário de dispositivo"
+
+#: .\templates\employee_list.html.py:185 
+
+msgid "Change the employee's registration device"
+msgstr "Alterar dispositivo de registro de funcionário"
+
+#: .\templates\employee_list.html.py:185 
+
+msgid "new device"
+msgstr "novo dispositivo"
+
+#: .\templates\employee_list.html.py:224 
+
+msgid "Upload a dispatch employee list"
+msgstr "Carregar uma lista de envio de funcionários"
+
+#: .\templates\employee_list.html.py:225 
+
+msgid "Upload a delete employee list"
+msgstr "Carregar uma lista de funcionários deletados"
+
+#: .\templates\filemng.html.py:3 .\templates\filemng.html.py:164 
+
+msgid "File management device"
+msgstr "Dispositivo de gerenciamento de arquivos"
+
+#: .\templates\filemng.html.py:87 
+
+msgid "Main Contents"
+msgstr "Conteúdo Principal"
+
+#: .\templates\filemng.html.py:88 
+
+msgid "directory"
+msgstr "diretório"
+
+#: .\templates\filemng.html.py:89 
+
+msgid "file list"
+msgstr "lista de arquivos"
+
+#: .\templates\filemng.html.py:99 
+
+msgid "Show the contents of the documents"
+msgstr "Mostrar conteúdo de documentos"
+
+#: .\templates\filemng.html.py:100 
+
+msgid "Download files"
+msgstr "Baixar arquivos"
+
+#: .\templates\filemng.html.py:100 
+
+msgid ""
+"To save the file, please click on the right mouse button links, select 'Save "
+"Target As'"
+msgstr "Para salvar o arquivo, favor clicar no botão direito do mouse, selecionar ‘Save Target As’"
+
+#: .\templates\filemng.html.py:164 
+
+msgid "Download data from the device"
+msgstr "Baixar dados de dispositivo"
+
+#: .\templates\iclock_edit.html.py:11 
+
+msgid "don't set backup"
+msgstr "não faz backup"
+
+#: .\templates\iclock_edit.html.py:25 
+
+msgid "Set"
+msgstr "Definir"
+
+#: .\templates\iclock_edit.html.py:25 
+
+msgid "Clear"
+msgstr "Limpar"
+
+#: .\templates\iclock_edit.html.py:31 
+
+msgid "Auto backup data"
+msgstr "Dados de auto backup"
+
+#: .\templates\iclock_list.html.py:17 
+
+msgid "Employee"
+msgstr "Funcionário"
+
+#: .\templates\iclock_list.html.py:18 
+
+msgid "Upload data log"
+msgstr "Carregar registro de dados"
+
+#: .\templates\iclock_list.html.py:19 
+
+msgid "Command log"
+msgstr "Registro do comando"
+
+#: .\templates\iclock_list.html.py:21 
+
+msgid "File management"
+msgstr "Gerenciamento de arquivos"
+
+#: .\templates\iclock_list.html.py:32 
+
+msgid "Status"
+msgstr "Status"
+
+#: .\templates\iclock_list.html.py:34 
+
+msgid "Firmware"
+msgstr "Firmware"
+
+#: .\templates\iclock_list.html.py:34 
+
+msgid "Model"
+msgstr "Modelo"
+
+#: .\templates\iclock_list.html.py:35 
+
+msgid "Emp./FP/Trans."
+msgstr "Emp./FP/Trans."
+
+#: .\templates\iclock_list.html.py:44 .\templates\iclock_list.html.py:172 
+
+msgid "Pause"
+msgstr "Pausa"
+
+#: .\templates\iclock_list.html.py:44 
+
+msgid "Online"
+msgstr "Online"
+
+#: .\templates\iclock_list.html.py:44 
+
+msgid "Communicating"
+msgstr "Comunicando"
+
+#: .\templates\iclock_list.html.py:44 
+
+msgid "Offline"
+msgstr "Offline"
+
+#: .\templates\iclock_list.html.py:133 
+
+msgid "please enter"
+msgstr "entrar"
+
+#: .\templates\iclock_list.html.py:150 
+
+msgid "Device will be conducted as follows firmware update"
+msgstr "Dispositivo será conduzido de acordo com a atualização do firmware"
+
+#: .\templates\iclock_list.html.py:150 
+
+msgid "Please ensure that the server installation path"
+msgstr "Certificar-se de especificar o caminho de instalação do servidor."
+
+#: .\templates\iclock_list.html.py:151 
+
+msgid "model"
+msgstr "modelo"
+
+#: .\templates\iclock_list.html.py:151 
+
+msgid "The relevant firmware file be stored in its subdirectory"
+msgstr "Os arquivos de firmware relacionados são armazenados num subdiretório."
+
+#: .\templates\iclock_list.html.py:169 .\templates\iclock_list.html.py:175 
+
+msgid "Copy device data to"
+msgstr "Copiar dados de dispositivo para"
+
+#: .\templates\iclock_list.html.py:173 
+
+msgid "Resume"
+msgstr "Reinício"
+
+#: .\templates\iclock_list.html.py:183 
+
+msgid "communicate password"
+msgstr "comunicar a senha"
+
+#: .\templates\iclock_list.html.py:183 
+
+msgid "Set communicate password"
+msgstr "Configurar senha de comunicação"
+
+#: .\templates\iclock_list.html.py:184 
+
+msgid "device auto poweroff time"
+msgstr "Tempo de parada automática do dispositivo"
+
+#: .\templates\iclock_list.html.py:259 
+
+msgid "Auto Refresh"
+msgstr "Atualização automática"
+
+#: .\templates\iclock_list.html.py:260 
+
+msgid "Interval: "
+msgstr "Intervalo :"
+
+#: .\templates\iclock_list.html.py:260 
+
+msgid "s"
+msgstr "s"
+
+#: .\templates\iclock_list.html.py:262 
+
+msgid "Tip"
+msgstr "Gorjetas"
+
+#: .\templates\iclock_list.html.py:264 
+
+msgid "Operations, Usually only for the on-line device;"
+msgstr "Operações, geralmente só para dispositivo on-line;"
+
+#: .\templates\iclock_list.html.py:265 
+
+msgid ""
+"After operation on the device, It's will take effect after about half minute."
+msgstr "Após operação no dispositivo, terá efeito em cerca de meio minuto."
+
+#: .\templates\iclock_list.html.py:276 
+
+msgid "Device Status"
+msgstr "Status do Dispositivo"
+
+#: .\templates\iclock_list.html.py:288 
+
+msgid "Input the IP Address of a device: "
+msgstr "Digitar o endereço IP de um dispositivo:"
+
+#: .\templates\iclock_list.html.py:296 
+
+msgid "compulsion reboot device"
+msgstr "Reinício forçado do dispositivo"
+
+#: .\templates\iclock_list.html.py:297 
+
+msgid "auto reboot halted device"
+msgstr "parada do renício automático do dispositivo"
+
+#: .\templates\logcheck.html.py:41 
+
+msgid "id"
+msgstr "id"
+
+#: .\templates\logcheck.html.py:41 .\templates\transaction_list.html.py:8 
+
+msgid "EName"
+msgstr "NomeE"
+
+#: .\templates\logcheck.html.py:42 
+
+msgid "Time"
+msgstr "Hora"
+
+#: .\templates\logcheck.html.py:42 
+
+msgid "State"
+msgstr "Status"
+
+#: .\templates\logcheck.html.py:43 
+
+msgid "Verification"
+msgstr "Verificação"
+
+#: .\templates\setoption.html.py:7 .\templates\setoption.html.py:19 
+
+msgid "Set Options"
+msgstr "Configurar Opções"
+
+#: .\templates\setoption.html.py:34 
+
+msgid "Web Port:"
+msgstr "Porta Web:"
+
+#: .\templates\setoption.html.py:35 
+
+msgid "Database Engine:"
+msgstr "Motor da Base de Dados:"
+
+#: .\templates\setoption.html.py:40 
+
+msgid "Database Name:"
+msgstr "Nome da Base de Dados:"
+
+#: .\templates\setoption.html.py:41 
+
+msgid "Database User:"
+msgstr "Usuário da Base de Dados:"
+
+#: .\templates\setoption.html.py:42 
+
+msgid "Database Password:"
+msgstr "Senha da Base de Dados:"
+
+#: .\templates\setoption.html.py:43 
+
+msgid "Database Port:"
+msgstr "Porta da Base de Dados:"
+
+#: .\templates\setoption.html.py:44 
+
+msgid "Database Host:"
+msgstr "Hospedeiro da Base de Dados:"
+
+#: .\templates\setoption.html.py:45 
+
+msgid "PIN Width:"
+msgstr "Extensão do PIN:"
+
+#: .\templates\setoption.html.py:46 
+
+msgid "Encryp:"
+msgstr "Encrip:"
+
+#: .\templates\setoption.html.py:51 
+
+msgid "Page Limit:"
+msgstr "Limite da Página:"
+
+#: .\templates\setoption.html.py:52 
+
+msgid "Realtime:"
+msgstr "Tempo Real:"
+
+#: .\templates\setoption.html.py:57 
+
+msgid "Auto Registry:"
+msgstr "Auto Registro:"
+
+#: .\templates\upgrade.html.py:10 
+
+msgid "Upload file location"
+msgstr "Carregar localização do arquivo"
+
+#: .\templates\upload.html.py:7 .\templates\upload.html.py:9 
+
+msgid "U-exported to upload data"
+msgstr "U-Disk para carregar os dados exportados"
+
+#: .\templates\upload.html.py:23 .\templates\upload.html.py:29 
+
+msgid "device choice"
+msgstr "selecionar dispositivo"
+
+#: .\templates\upload.html.py:39 
+
+msgid ""
+"If you plan to upload fingerprint template, users upload information at the "
+"same time"
+msgstr "Se você planeja carregar modelos de impressão digital, use as informações de carregamento ao mesmo tempo"
+
+#: .\templates\upload.html.py:51 
+
+msgid "File type"
+msgstr "Tipo de arquivo"
+
+#: .\templates\upload.html.py:51 
+
+msgid "Select file"
+msgstr "Selecionar arquivo"
+
+#: .\templates\upload.html.py:58 
+
+msgid ""
+"Here set to upload data files from the downloaded to the device which "
+"transaction was the U-disk"
+msgstr "Configurar os arquivos de dados de carregamento a partir do que foi baixado para o dispositivo cuja transação foi o U-Disk"
+
+#: .\templates\upload.html.py:60 
+
+msgid "transaction file"
+msgstr "arquivo da transação"
+
+#: .\templates\upload.html.py:64 
+
+msgid "users File"
+msgstr "Arquivo do usuário"
+
+#: .\templates\upload.html.py:68 
+
+msgid "fingerprint template file"
+msgstr "arquivo do modelo do impressão digital"
+
+#: .\templates\upload.html.py:71 
+
+msgid ""
+"If upload fingerprint template must also upload file related to the user's "
+"information"
+msgstr "Se o modelo de impressão digital deve também carregar o arquivo relacionado com a informação do usuário"
+
+#: .\templates\upload.html.py:75 
+
+msgid "upload file"
+msgstr "carregar arquivo"
+
+#: .\templates\welcome_sys.html.py:3 
+
+msgid "Login System"
+msgstr "Sistema de Login"
+
+#: .\templates\welcome_sys.html.py:8 
+
+msgid "Welcome to the iclock system!"
+msgstr "Bem-vindo ao sistema iclock!"
+
+#: .\templates\admin\404.html.py:10 
+
+msgid "We're sorry, but the requested page could not be found."
+msgstr "Desculpe, mas a página solicitada não foi encontrada."
+
+#: .\templates\admin\500.html.py:4 
+
+msgid "Server error"
+msgstr "Erro do servidor"
+
+#: .\templates\admin\500.html.py:6 
+
+msgid "Server error (500)"
+msgstr "Erro do servidor (500)"
+
+#: .\templates\admin\500.html.py:9 
+
+msgid "Server Error <em>(500)</em>"
+msgstr "Erro do servidor <em>(500)</em>"
+
+#: .\templates\admin\500.html.py:10 
+
+msgid ""
+"There's been an error. It's been reported to the site administrators via e-"
+"mail and should be fixed shortly. Thanks for your patience."
+msgstr "Ocorreu um erro. Foi relatado para os administradores do site através de e-mail e deverá ser solucionado em breve. Obrigado pela sua paciência."
+
+#: .\templates\admin\change_form.html.py:21 
+
+#: .\templates\admin\object_history.html.py:5
+msgid "History"
+msgstr "Histórico"
+
+#: .\templates\admin\change_form.html.py:31 
+
+#: .\templates\admin\auth\user\change_password.html.py:24
+msgid "Please correct the error below."
+msgid_plural "Please correct the errors below."
+msgstr[0] "Por favor, corrigir o erro abaixo."
+msgstr[1] "Por favor, corrigir os erros abaixo."
+
+#: .\templates\admin\change_form.html.py:49 
+
+msgid "Ordering"
+msgstr "Fazendo o pedido"
+
+#: .\templates\admin\change_form.html.py:52 
+
+msgid "Order:"
+msgstr "Pedido :"
+
+#: .\templates\admin\change_list.html.py:12 
+
+#, python-format
+msgid "Add %(name)s"
+msgstr "Adicionar %(name)s"
+
+#: .\templates\admin\delete_confirmation.html.py:14 
+
+#, python-format
+msgid ""
+"Deleting the %(object_name)s '%(escaped_object)s' would result in deleting "
+"related objects, but your account doesn't have permission to delete the "
+"following types of objects:"
+msgstr "Deletar %(object_name)s '%(escaped_object)s' resultaria em deletar os objetos relacionados, mas sua conta não tem permissão para deletar os seguintes tipos de objetos:"
+
+#: .\templates\admin\delete_confirmation.html.py:21 
+
+#, python-format
+msgid "Are you sure you want to delete the %(object_name)s \"%(escaped_object)s\"? "
+"All of the following related items will be deleted:"
+msgstr "Tem certeza que deseja deletar %(object_name)s \"%(escaped_object)s\"? Todos os seguintes itens relacionados serão deletados:"
+
+#: .\templates\admin\delete_confirmation.html.py:26 
+
+msgid "Yes, I'm sure"
+msgstr "Sim, tenho certeza"
+
+#: .\templates\admin\filter.html.py:2 
+
+#, python-format
+msgid " By %(filter_title)s "
+msgstr "Através de %(filter_title)s"
+
+#: .\templates\admin\index.html.py:17 
+
+#, python-format
+msgid "Models available in the %(name)s application."
+msgstr "Modelos disponíveis na aplicação %(name)s."
+
+#: .\templates\admin\index.html.py:18 
+
+#, python-format
+msgid "%(name)s"
+msgstr "%(name)s"
+
+#: .\templates\admin\index.html.py:40 
+
+msgid "You don't have permission to edit anything."
+msgstr "Você não tem permissão para editar."
+
+#: .\templates\admin\index.html.py:59 
+
+msgid "Recent Actions"
+msgstr "Ações Recentes"
+
+#: .\templates\admin\index.html.py:60 
+
+msgid "My Actions"
+msgstr "Minhas Ações"
+
+#: .\templates\admin\index.html.py:64 
+
+msgid "None available"
+msgstr "Sem disponibilidade"
+
+#: .\templates\admin\invalid_setup.html.py:8 
+
+msgid ""
+"Something's wrong with your database installation. Make sure the appropriate "
+"database tables have been created, and make sure the database is readable by "
+"the appropriate user."
+msgstr "Algo errado com a instalação do seu banco de dados. Certifique-se de que as tabelas apropriadas do banco de dados foram criadas, e também que o banco de dados é legível pelo usuário apropriado."
+
+#: .\templates\admin\object_history.html.py:18 
+
+msgid "Date/time"
+msgstr "Data/hora"
+
+#: .\templates\admin\object_history.html.py:19 
+
+msgid "User"
+msgstr "Usuário"
+
+#: .\templates\admin\object_history.html.py:20 
+
+msgid "Action"
+msgstr "Ação"
+
+#: .\templates\admin\object_history.html.py:26 
+
+msgid "DATE_WITH_TIME_FULL"
+msgstr "DATE_WITH_TIME_FULL"
+
+#: .\templates\admin\object_history.html.py:36 
+
+msgid ""
+"This object doesn't have a change history. It probably wasn't added via this "
+"admin site."
+msgstr "Este objeto não tem um histórico de mudanças. Provavelmente não foi adicionado via este site de administração."
+
+#: .\templates\admin\pagination.html.py:10 
+
+msgid "Show all"
+msgstr "Exibir todos"
+
+#: .\templates\admin\search_form.html.py:8 
+
+msgid "Go"
+msgstr "Continuar"
+
+#: .\templates\admin\search_form.html.py:10 
+
+#, python-format
+msgid "1 result"
+msgid_plural "%(counter)s results"
+msgstr[0] "1resultado"
+msgstr[1] "resultados %(counter)s"
+
+#: .\templates\admin\search_form.html.py:10 
+
+#, python-format
+msgid "%(full_result_count)s total"
+msgstr "%(full_result_count)s total"
+
+#: .\templates\admin\submit_line.html.py:4 
+
+msgid "Save as new"
+msgstr "Salvar como novo"
+
+#: .\templates\admin\submit_line.html.py:5 
+
+msgid "Save and add another"
+msgstr "Salvar e adicionar um outro"
+
+#: .\templates\admin\submit_line.html.py:6 
+
+msgid "Save and continue editing"
+msgstr "Salvar e continuar editando"
+
+#: .\templates\admin\submit_line.html.py:7 
+
+msgid "Save"
+msgstr "Salvar"
+
+#: .\templates\admin\auth\user\add_form.html.py:6 
+
+msgid ""
+"First, enter a username and password. Then, you'll be able to edit more user "
+"options."
+msgstr "Primeiro, digitar o nome de usuário e senha. Depois, você poderá editar mais opções do usuário."
+
+#: .\templates\admin\auth\user\add_form.html.py:12 
+
+msgid "Username"
+msgstr "Nome do usuário"
+
+#: .\templates\admin\auth\user\add_form.html.py:23 
+
+#: .\templates\admin\auth\user\change_password.html.py:39
+msgid "Password (again)"
+msgstr "Senha (novamente)"
+
+#: .\templates\admin\auth\user\add_form.html.py:24 
+
+#: .\templates\admin\auth\user\change_password.html.py:40
+msgid "Enter the same password as above, for verification."
+msgstr "Digite a mesma senha como acima, para verificação."
+
+#: .\templates\admin\auth\user\change_password.html.py:28 
+
+#, python-format
+msgid "Enter a new password for the user <strong>%(username)s</strong>."
+msgstr "Digite uma nova senha para o usuário strong>%(username)s</strong>."
+
+#: .\templates\registration\logged_out.html.py:8 
+
+msgid "Thanks for spending some quality time with the Web site today."
+msgstr "Obrigado por passar algum tempo de qualidade com o site hoje."
+
+#: .\templates\registration\logged_out.html.py:10 
+
+msgid "Log in again"
+msgstr "Log in novamente"
+
+#: .\templates\registration\login.html.py:18 
+
+msgid "Invalid username or passowrd, please try again."
+msgstr "Nome de usuário ou senha inválida, tente novamente."
+
+#: .\templates\registration\login.html.py:22 
+
+msgid "Username:"
+msgstr "Nome do usuário"
+
+#: .\templates\registration\login.html.py:25 
+
+msgid "Password:"
+msgstr "Senha:"
+
+#: .\templates\registration\login.html.py:30 
+
+msgid "Log in"
+msgstr "Log in"
+
+#: .\templates\registration\password_change_done.html.py:4 
+
+#: .\templates\registration\password_change_form.html.py:4
+#: .\templates\registration\password_change_form.html.py:6
+#: .\templates\registration\password_change_form.html.py:10
+msgid "Password change"
+msgstr "Mudar senha"
+
+#: .\templates\registration\password_change_done.html.py:6 
+
+#: .\templates\registration\password_change_done.html.py:10
+msgid "Password change successful"
+msgstr "Mudança de senha bem sucedida"
+
+#: .\templates\registration\password_change_done.html.py:12 
+
+msgid "Your password was changed."
+msgstr "Sua senha foi mudada.."
+
+#: .\templates\registration\password_change_form.html.py:12 
+
+msgid ""
+"Please enter your old password, for security's sake, and then enter your new "
+"password twice so we can verify you typed it in correctly."
+msgstr "Digite sua senha antiga, por questões de segurança, e depois digite sua nova senha duas vezes para que possamos verificar se você a digitou corretamente."
+
+#: .\templates\registration\password_change_form.html.py:18 
+
+msgid "Change my password"
+msgstr "Mudar minha senha"
+
+#: .\templates\registration\password_reset_done.html.py:4 
+
+#: .\templates\registration\password_reset_form.html.py:4
+#: .\templates\registration\password_reset_form.html.py:6
+#: .\templates\registration\password_reset_form.html.py:10
+msgid "Password reset"
+msgstr "Redefinição de senha"
+
+#: .\templates\registration\password_reset_done.html.py:6 
+
+#: .\templates\registration\password_reset_done.html.py:10
+msgid "Password reset successful"
+msgstr "Redefinição de senha bem-sucedida"
+
+#: .\templates\registration\password_reset_done.html.py:12 
+
+msgid ""
+"We've e-mailed a new password to the e-mail address you submitted. You "
+"should be receiving it shortly."
+msgstr "Enviamos um e-mail com sua nova senha para o endereço de e-mail que você nos enviou. Você irá recebê-lo em breve."
+
+#: .\templates\registration\password_reset_email.html.py:2 
+
+msgid "You're receiving this e-mail because you requested a password reset"
+msgstr "Você está recebendo este e-mail porque pediu uma redefinição de senha"
+
+#: .\templates\registration\password_reset_email.html.py:3 
+
+#, python-format
+msgid "for your user account at %(site_name)s"
+msgstr "para sua conta de usuário em %(site_name)s"
+
+#: .\templates\registration\password_reset_email.html.py:5 
+
+#, python-format
+msgid "Your new password is: %(new_password)s"
+msgstr "Sua nova senha é : %(new_password)s"
+
+#: .\templates\registration\password_reset_email.html.py:7 
+
+msgid "Feel free to change this password by going to this page:"
+msgstr "Sinta-se livre para alterar esta senha, indo até esta página:"
+
+#: .\templates\registration\password_reset_email.html.py:11 
+
+msgid "Your username, in case you've forgotten:"
+msgstr "Seu nome de usuário, caso que você tenha esquecido :"
+
+#: .\templates\registration\password_reset_email.html.py:13 
+
+msgid "Thanks for using our site!"
+msgstr "Obrigado por usar nosso site!"
+
+#: .\templates\registration\password_reset_email.html.py:15 
+
+#, python-format
+msgid "The %(site_name)s team"
+msgstr "A equipe %(site_name)s"
+
+#: .\templates\registration\password_reset_form.html.py:12 
+
+msgid ""
+"Forgotten your password? Enter your e-mail address below, and we'll reset "
+"your password and e-mail the new one to you."
+msgstr "Esqueceu sua senha? Digite seu endereço de email abaixo, e nós vamos redefinir " "sua senha e enviar uma nova por e-mail para você."
+
+#: .\templates\registration\password_reset_form.html.py:16 
+
+msgid "E-mail address:"
+msgstr "Endereço de email:"
+
+#: .\templates\registration\password_reset_form.html.py:16 
+
+msgid "Reset my password"
+msgstr "Redefinir minha senha"
+
+#EX....
+msgid "Not specified a device to enroll"
+msgstr "Dispositivo não especificado para registro."
+
+msgid "All fingerprint have enrolled"
+msgstr "Todos os impressão digitales registrados."
+
+msgid "Apply"
+msgstr "Aplicar"
+
+msgid "Auditing"
+msgstr "Avaliação"
+
+msgid "Accepted"
+msgstr "Aceito"
+
+msgid "Refused"
+msgstr "Recusado"
+
+msgid "Paused"
+msgstr "Pausa"
+
+msgid "Re-Apply"
+msgstr "Re-aplicar"
+
+msgid "Again"
+msgstr "Novamente"
+
+msgid "Cancel_leave"
+msgstr "Cancelar_sair"
+
+msgid "trans photo stamp"
+msgstr "Transferência de imagens"
+
+msgid "Marking device for the server to the picture transfer as timestamps"
+msgstr "Dispositivo de marcação para o servidor para a transferência de imagem como selos de data e hora"
+
+msgid "Device Alias name"
+msgstr "Nome do Dispositivo"
+
+msgid "City of the location"
+msgstr "Cidade da localização"
+
+msgid "Timezone"
+msgstr "Fuso horário"
+
+msgid "Timezone of the location"
+msgstr "Fuso horário da localização"
+
+msgid "Invalid %s"
+msgstr "Inválido %s"
+
+msgid "By Time Zone"
+msgstr "Através do Fuso Horário"
+
+msgid "Must Clock In"
+msgstr "Deve bater o cartão-entrada"
+
+msgid "Don't Check In"
+msgstr "Não verificar a entrada"
+
+msgid "Must Clock Out"
+msgstr "Deve bater o cartão-saída"
+
+msgid "Don't Check Out"
+msgstr "Não verificar a saída"
+
+msgid "Emp Name"
+msgstr "Nome do funcionário"
+
+msgid "Active AC"
+msgstr "Registros de frequência válidos"
+
+msgid "Count OT"
+msgstr "Contagem de hora extra"
+
+msgid "Rest on Holidays"
+msgstr "Descansar nos feriados"
+
+msgid "Check Clock In"
+msgstr "Verificar batida do cartão-entrada"
+
+msgid "Check Clock Out"
+msgstr "Verificar batida do cartão-saída"
+
+msgid "Employee PIN '%s' is disabled"
+msgstr "PIN do funcionário ‘%s’está desativado."
+
+msgid "Max employee PIN is %d"
+msgstr "PIN do funcionário permitido é %d."
+
+msgid "start up"
+msgstr "iniciar"
+
+msgid "card registration"
+msgstr "registro de cartão"
+
+msgid "Try Invalid Verification"
+msgstr "Tentativa de Verificação Inválida"
+
+msgid "Upload Time"
+msgstr "Carregar hora"
+
+msgid "data from device"
+msgstr "dados do dispositivo"
+
+msgid "Company Notice"
+msgstr "Anúncio da Empresa"
+
+msgid "Check time"
+msgstr "Hora da verificação"
+
+msgid "Check type"
+msgstr "Tipo de verificação"
+
+msgid "Modify by"
+msgstr "Modificar por"
+
+msgid "Modify date"
+msgstr "Modificar data"
+
+msgid "Attendance date"
+msgstr "Data de atendimento"
+msgid "Notes"
+msgstr "Notas"
+
+msgid "Clear pictures in device"
+msgstr "Limpar imagens no dispositivo"
+
+msgid "Tree style"
+msgstr "Estilo da árvore"
+
+msgid ""
+"Delete the employee, if there is no specify device,the employee will be left"
+"(The column of 'Left' is 'Yes'):"
+msgstr "Deletar o funcionário, se não houver dispositivo específico, o funcionário será excluído (‘A coluna Left’ é ‘Yes’)"
+
+msgid "Picture"
+msgstr "Imagem"
+
+msgid "No Employee!"
+msgstr "Nenhum Funcionário!"
+
+msgid "Selected:"
+msgstr "Selecionado:"
+
+msgid "none"
+msgstr "nenhum"
+
+msgid "Index"
+msgstr "Índice"
+
+msgid "Django site admin"
+msgstr "Adm. do site Django"
+ 
+msgid "Filter By:&nbsp;&nbsp;"
+msgstr "Filtro por:&nbsp;&nbsp;"
+
+msgid "This Device has no pictures!"
+msgstr "Este dispositivo não tem imagem!"
+
+msgid "Clear all employee"
+msgstr "Limpar todos empregados"
+
+msgid "Upgrade by u-pack"
+msgstr "Atualizar através u-Pack"
+
+#EX2...
+msgid "Enroll employee's fingerprint"
+msgstr "Registrar impressão digital do funcionário"
+
+msgid "Transfer to the device templately"
+msgstr "Transferir para o modelo do dispositivo"
+
+msgid "Set options of device"
+msgstr "Definir opções de dispositivo"
+
+msgid "Clear Obsolete Data"
+msgstr "Limpar dados obsoletos"
+
+msgid "Init database"
+msgstr "Inicializar o banco de dados"
+
+msgid " device operation log "
+msgstr "registro da operação do dispositivo"

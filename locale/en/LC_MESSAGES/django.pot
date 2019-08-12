@@ -1,0 +1,2084 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-04-15 16:47+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: .\authurls.py:40 .\authurls.py:56
+msgid "Login"
+msgstr ""
+
+#: .\authurls.py:41
+msgid "Invalid Username or Password, please try again."
+msgstr ""
+
+#: .\authurls.py:57
+msgid "No permission to do anything!"
+msgstr ""
+
+#: .\iclocklocale.py:70 .\iclocklocale.py:81
+#, possible-python-format
+msgid "Staff %s"
+msgstr ""
+
+#: .\settings.py:84
+msgid "English"
+msgstr ""
+
+#: .\settings.py:85
+msgid "Simplified Chinese"
+msgstr ""
+
+#: .\settings.py:86
+msgid "Tranditional Chinese"
+msgstr ""
+
+#: .\iclock\admin_detail_view.py:51
+msgid "Reset password"
+msgstr ""
+
+#: .\iclock\admin_detail_view.py:52
+msgid "Password"
+msgstr ""
+
+#: .\iclock\admin_detail_view.py:54
+msgid "Password again"
+msgstr ""
+
+#: .\iclock\admin_detail_view.py:75
+msgid "Must be same as Password"
+msgstr ""
+
+#: .\iclock\admin_detail_view.py:79
+msgid "The length must be great than 4"
+msgstr ""
+
+#: .\iclock\admin_detail_view.py:137
+#, possible-python-format
+msgid "Keyword \"%(object_name)s\" Data do not exist!"
+msgstr ""
+
+#: .\iclock\admin_detail_view.py:141
+msgid "No permission"
+msgstr ""
+
+#: .\iclock\datamisc.py:27
+msgid "male"
+msgstr ""
+
+#: .\iclock\datamisc.py:27
+msgid "female"
+msgstr ""
+
+#: .\iclock\datamisc.py:57
+msgid "Export data"
+msgstr ""
+
+#: .\iclock\datamisc.py:57
+msgid "Specified data format does not exist or do not support!"
+msgstr ""
+
+#: .\iclock\dataproc.py:281
+#, possible-python-format
+msgid ""
+"The Firmware version of device %(object_name)s is unknown，cannot to be "
+"upgraded!"
+msgstr ""
+
+#: .\iclock\dataproc.py:292
+#, possible-python-format
+msgid ""
+"The firmware file '%(object_name)s' does not exist, can not upgrade firmware "
+"for %(esc_name)s!"
+msgstr ""
+
+#: .\iclock\dataproc.py:305
+msgid "Not specified a device to enroll"
+msgstr ""
+
+#: .\iclock\dataproc.py:311
+msgid "All fingerprint have enrolled"
+msgstr ""
+
+#: .\iclock\datautils.py:316
+msgid "You do not have the permission!"
+msgstr ""
+
+#: .\iclock\dataview.py:201
+msgid "Duplicated"
+msgstr ""
+
+#: .\iclock\dataview.py:257
+#, possible-python-format
+msgid "Keyword \"%(object_name)s\" can not to be changed!"
+msgstr ""
+
+#: .\iclock\dataview.py:404
+#, possible-python-format
+msgid "Device options \"%s\" Unavailable!"
+msgstr ""
+
+#: .\iclock\dataview.py:423 .\iclock\dataview.py:430 .\iclock\dataview.py:436
+#: .\iclock\dataview.py:447 .\iclock\dataview.py:453
+msgid "Designated device does not exist!"
+msgstr ""
+
+#: .\iclock\dataview.py:466
+#, possible-python-format
+msgid "%s %s does not exist!"
+msgstr ""
+
+#: .\iclock\dataview.py:471
+#, possible-python-format
+msgid "Does not support this feature: \"action=%(object_name)s\""
+msgstr ""
+
+#: .\iclock\dataview.py:485
+msgid "Error"
+msgstr ""
+
+#: .\iclock\dataview.py:485
+msgid "The server is not installed information services module!"
+msgstr ""
+
+#: .\iclock\dataview.py:494
+msgid "You do not have the permission!"
+msgstr ""
+
+#: .\iclock\desfiles.py:69
+#, possible-python-format
+msgid "%d attendance record(s)."
+msgstr ""
+
+#: .\iclock\expview.py:320
+msgid "Automatically Data Export Definition"
+msgstr ""
+
+#: .\iclock\filterspecs.py:70 .\iclock\filterspecs.py:100
+#: .\iclock\filterspecs.py:156 .\iclock\filterspecs.py:182
+msgid "All"
+msgstr ""
+
+#: .\iclock\filterspecs.py:87
+msgid "More ..."
+msgstr ""
+
+#: .\iclock\filterspecs.py:121
+msgid "Any date"
+msgstr ""
+
+#: .\iclock\filterspecs.py:122
+msgid "Today"
+msgstr ""
+
+#: .\iclock\filterspecs.py:125
+msgid "Past 7 days"
+msgstr ""
+
+#: .\iclock\filterspecs.py:127
+msgid "This month"
+msgstr ""
+
+#: .\iclock\filterspecs.py:129
+msgid "This year"
+msgstr ""
+
+#: .\iclock\filterspecs.py:130
+msgid "Range ..."
+msgstr ""
+
+#: .\iclock\filterspecs.py:156
+msgid "Yes"
+msgstr ""
+
+#: .\iclock\filterspecs.py:156
+msgid "No"
+msgstr ""
+
+#: .\iclock\filterspecs.py:163
+msgid "Unknown"
+msgstr ""
+
+#: .\iclock\genmsgview.py:71
+msgid "Generating Messages"
+msgstr ""
+
+#: .\iclock\genmsgview.py:74 .\iclock\genmsgview.py:87
+msgid "Error"
+msgstr ""
+
+#: .\iclock\genmsgview.py:74 .\iclock\genmsgview.py:87
+msgid "The server is not installed information services module!"
+msgstr ""
+
+#: .\iclock\importdata.py:20
+#, possible-python-format
+msgid "<a href='/iclock/tmp/%s'> %d record(s) is duplicated or invalid."
+msgstr ""
+
+#: .\iclock\importdata.py:24
+#, possible-python-format
+msgid "Inserted %(object_num)d successfully"
+msgstr ""
+
+#: .\iclock\importdata.py:25
+#, possible-python-format
+msgid "Updated %(object_num)d successfully"
+msgstr ""
+
+#: .\iclock\importdata.py:26
+#, possible-python-format
+msgid " %(object_num)d already exists in the database"
+msgstr ""
+
+#: .\iclock\importdata.py:28
+#, possible-python-format
+msgid "In the data files %(object_num)d  %(object_name)s "
+msgstr ""
+
+#: .\iclock\importdata.py:65 .\iclock\importdata.py:69
+#: .\iclock\importdata.py:192
+msgid "fail"
+msgstr ""
+
+#: .\iclock\importdata.py:65
+msgid "<h1> Data upload failure </h1>. <br/> A device must be provided."
+msgstr ""
+
+#: .\iclock\importdata.py:69
+#, possible-python-format
+msgid ""
+"<h1> Data upload failure </h1>. <br/> You have no permission to upload data "
+"to device %(object_name)s "
+msgstr ""
+
+#: .\iclock\importdata.py:93 .\iclock\importdata.py:148
+#: .\iclock\importdata.py:153
+msgid "fail "
+msgstr ""
+
+#: .\iclock\importdata.py:93
+#, possible-python-format
+msgid ""
+"<h1> Data upload failure </h1> <br/> Empployee information from the data "
+"file is not from device %(object_name)s"
+msgstr ""
+
+#: .\iclock\importdata.py:128
+msgid "user information"
+msgstr ""
+
+#: .\iclock\importdata.py:131 .\iclock\importdata.py:183
+#: .\iclock\importdata.py:218 .\iclock\importdata.py:221
+msgid "Import data"
+msgstr ""
+
+#: .\iclock\importdata.py:132
+msgid ""
+"Employee information does not match the data, select the correct employee "
+"information data file"
+msgstr ""
+
+#: .\iclock\importdata.py:148
+#, possible-python-format
+msgid ""
+"<h1> Data upload failure </ h1>, <br /> staff fingerprint data files are not "
+"from the attendance of %(object_name)s"
+msgstr ""
+
+#: .\iclock\importdata.py:154
+msgid ""
+"<h1> Data upload failure </ h1>, <br /> If the fingerprint template to "
+"upload, please also upload their associated user information!"
+msgstr ""
+
+#: .\iclock\importdata.py:180
+msgid "Fingerprint template"
+msgstr ""
+
+#: .\iclock\importdata.py:184
+#, possible-python-format
+msgid ""
+"<h1>Upload data success</h1><br /><br />%(object_name)s<br /><h1>Data Import "
+"failure</h1><br /><br />Fingerprint template does not match the data or data "
+"file is empty, please select the correct <b>fingerprint template </b>data "
+"files"
+msgstr ""
+
+#: .\iclock\importdata.py:192
+msgid "Upload data failure"
+msgstr ""
+
+#: .\iclock\importdata.py:192
+msgid "Attendance record attendance data files are not from the device"
+msgstr ""
+
+#: .\iclock\importdata.py:215
+msgid "Transactions"
+msgstr ""
+
+#: .\iclock\importdata.py:219 .\iclock\importdata.py:221
+msgid "Data Import Results"
+msgstr ""
+
+#: .\iclock\importdata.py:219
+msgid "Data Import failure"
+msgstr ""
+
+#: .\iclock\importdata.py:219
+msgid ""
+"Transactions does not match data, Please select the correct <b>transaction</"
+"b> data file!"
+msgstr ""
+
+#: .\iclock\importdata.py:225
+msgid "error"
+msgstr ""
+
+#: .\iclock\importdata.py:225
+msgid "The server is not installed U-disk data import module!"
+msgstr ""
+
+#: .\iclock\models.py:20
+msgid "Apply"
+msgstr ""
+
+#: .\iclock\models.py:21
+msgid "Auditing"
+msgstr ""
+
+#: .\iclock\models.py:22
+msgid "Accepted"
+msgstr ""
+
+#: .\iclock\models.py:23
+msgid "Refused"
+msgstr ""
+
+#: .\iclock\models.py:24
+msgid "Paused"
+msgstr ""
+
+#: .\iclock\models.py:25
+msgid "Re-Apply"
+msgstr ""
+
+#: .\iclock\models.py:26
+msgid "Again"
+msgstr ""
+
+#: .\iclock\models.py:27
+msgid "Cancel_leave"
+msgstr ""
+
+#: .\iclock\models.py:29
+msgid "department"
+msgstr ""
+
+#: .\iclock\models.py:30
+msgid "department name"
+msgstr ""
+
+#: .\iclock\models.py:31
+msgid "department number"
+msgstr ""
+
+#: .\iclock\models.py:51
+msgid "parent"
+msgstr ""
+
+#: .\iclock\models.py:97
+msgid "Nested department parent"
+msgstr ""
+
+#: .\iclock\models.py:126
+msgid "No"
+msgstr ""
+
+#: .\iclock\models.py:126
+msgid "Yes"
+msgstr ""
+
+#: .\iclock\models.py:291 .\iclock\models.py:384
+msgid "serial number"
+msgstr ""
+
+#: .\iclock\models.py:291
+msgid ""
+"Should be set with the device, on the device, access management menu \"Sys "
+"Info\" / \"Dev Info\" / \"Serial Num\" could be found"
+msgstr ""
+
+#: .\iclock\models.py:293
+msgid "last activity"
+msgstr ""
+
+#: .\iclock\models.py:294 .\iclock\models.py:1045
+msgid "transfer time"
+msgstr ""
+
+#: .\iclock\models.py:294
+msgid ""
+"Setting device for a moment from the plane started to send checks to the new "
+"data server. Hh: mm (hours: minutes) format, with a number of time between "
+"the semicolon (;) separately"
+msgstr ""
+
+#: .\iclock\models.py:295
+msgid "interval"
+msgstr ""
+
+#: .\iclock\models.py:295
+msgid ""
+"Device set for each interval to check how many minutes to send new data "
+"server"
+msgstr ""
+
+#: .\iclock\models.py:296
+msgid "trans record stamp"
+msgstr ""
+
+#: .\iclock\models.py:296
+msgid ""
+"Logo for the latest device to the server send the transactions timestamps"
+msgstr ""
+
+#: .\iclock\models.py:297
+msgid "trans OP stamp"
+msgstr ""
+
+#: .\iclock\models.py:297
+msgid ""
+"Marking device for the server to the employee data transfer as timestamps"
+msgstr ""
+
+#: .\iclock\models.py:298
+msgid "trans photo stamp"
+msgstr ""
+
+#: .\iclock\models.py:298
+msgid "Marking device for the server to the picture transfer as timestamps"
+msgstr ""
+
+#: .\iclock\models.py:299
+msgid "Device Alias name"
+msgstr ""
+
+#: .\iclock\models.py:299
+msgid "Device of a name"
+msgstr ""
+
+#: .\iclock\models.py:301
+msgid "update flag"
+msgstr ""
+
+#: .\iclock\models.py:301
+msgid "To identify what kind of data should be transfered to the server"
+msgstr ""
+
+#: .\iclock\models.py:302
+msgid "style"
+msgstr ""
+
+#: .\iclock\models.py:304
+msgid "FW Version"
+msgstr ""
+
+#: .\iclock\models.py:305
+msgid "FP Count"
+msgstr ""
+
+#: .\iclock\models.py:306
+msgid "Transaction Count"
+msgstr ""
+
+#: .\iclock\models.py:307
+msgid "User Count"
+msgstr ""
+
+#: .\iclock\models.py:308
+msgid "MainTime"
+msgstr ""
+
+#: .\iclock\models.py:309
+msgid "MaxFingerCount"
+msgstr ""
+
+#: .\iclock\models.py:310
+msgid "MaxAttLogCount"
+msgstr ""
+
+#: .\iclock\models.py:311
+msgid "Device Name"
+msgstr ""
+
+#: .\iclock\models.py:312
+msgid "AlgVer"
+msgstr ""
+
+#: .\iclock\models.py:313
+msgid "FlashSize"
+msgstr ""
+
+#: .\iclock\models.py:314
+msgid "FreeFlashSize"
+msgstr ""
+
+#: .\iclock\models.py:315
+msgid "Language"
+msgstr ""
+
+#: .\iclock\models.py:316
+msgid "VOLUME"
+msgstr ""
+
+#: .\iclock\models.py:317
+msgid "DtFmt"
+msgstr ""
+
+#: .\iclock\models.py:318
+msgid "IPAddress"
+msgstr ""
+
+#: .\iclock\models.py:319
+msgid "IsTFT"
+msgstr ""
+
+#: .\iclock\models.py:320
+msgid "Platform"
+msgstr ""
+
+#: .\iclock\models.py:321
+msgid "Brightness"
+msgstr ""
+
+#: .\iclock\models.py:322
+msgid "Auto backup data to"
+msgstr ""
+
+#: .\iclock\models.py:323
+msgid "OEMVendor"
+msgstr ""
+
+#: .\iclock\models.py:324 .\iclock\models.py:523
+msgid "city"
+msgstr ""
+
+#: .\iclock\models.py:324
+msgid "City of the location"
+msgstr ""
+
+#: .\iclock\models.py:325
+msgid "Access Function"
+msgstr ""
+
+#: .\iclock\models.py:326
+msgid "Timezone"
+msgstr ""
+
+#: .\iclock\models.py:326
+msgid "Timezone of the location"
+msgstr ""
+
+#: .\iclock\models.py:384
+#, possible-python-format
+msgid "Invalid %s"
+msgstr ""
+
+#: .\iclock\models.py:404 .\iclock\models.py:805 .\iclock\models.py:965
+#: .\iclock\models.py:997 .\iclock\models.py:1041 .\iclock\models.py:1133
+msgid "device"
+msgstr ""
+
+#: .\iclock\models.py:431
+msgid "granted department"
+msgstr ""
+
+#: .\iclock\models.py:437
+msgid "admin granted department"
+msgstr ""
+
+#: .\iclock\models.py:455
+msgid "Male"
+msgstr ""
+
+#: .\iclock\models.py:456
+msgid "Female"
+msgstr ""
+
+#: .\iclock\models.py:461
+msgid "Normal"
+msgstr ""
+
+#: .\iclock\models.py:462
+msgid "Registrar"
+msgstr ""
+
+#: .\iclock\models.py:463
+msgid "Administrator"
+msgstr ""
+
+#: .\iclock\models.py:464
+msgid "Supervisor"
+msgstr ""
+
+#: .\iclock\models.py:487 .\iclock\models.py:492
+msgid "By Time Zone"
+msgstr ""
+
+#: .\iclock\models.py:488
+msgid "Must Clock In"
+msgstr ""
+
+#: .\iclock\models.py:489
+msgid "Don't Check In"
+msgstr ""
+
+#: .\iclock\models.py:493
+msgid "Must Clock Out"
+msgstr ""
+
+#: .\iclock\models.py:494
+msgid "Don't Check Out"
+msgstr ""
+
+#: .\iclock\models.py:500
+msgid "PIN"
+msgstr ""
+
+#: .\iclock\models.py:502
+msgid "Emp Name"
+msgstr ""
+
+#: .\iclock\models.py:503 .\iclock\models.py:731
+msgid "Password"
+msgstr ""
+
+#: .\iclock\models.py:504
+msgid "ID Card"
+msgstr ""
+
+#: .\iclock\models.py:505
+msgid "privilege"
+msgstr ""
+
+#: .\iclock\models.py:506
+msgid "Access Group"
+msgstr ""
+
+#: .\iclock\models.py:507
+msgid "Access Timezone"
+msgstr ""
+
+#: .\iclock\models.py:508
+msgid "sex"
+msgstr ""
+
+#: .\iclock\models.py:509
+msgid "birthday"
+msgstr ""
+
+#: .\iclock\models.py:510
+msgid "address"
+msgstr ""
+
+#: .\iclock\models.py:511
+msgid "postcode"
+msgstr ""
+
+#: .\iclock\models.py:512
+msgid "office phone"
+msgstr ""
+
+#: .\iclock\models.py:513
+msgid "home phone"
+msgstr ""
+
+#: .\iclock\models.py:514
+msgid "mobile"
+msgstr ""
+
+#: .\iclock\models.py:515
+msgid "nationality"
+msgstr ""
+
+#: .\iclock\models.py:516
+msgid "title"
+msgstr ""
+
+#: .\iclock\models.py:517
+msgid "registration device"
+msgstr ""
+
+#: .\iclock\models.py:518
+msgid "social insurance num"
+msgstr ""
+
+#: .\iclock\models.py:519 .\iclock\models.py:705
+msgid "refresh time"
+msgstr ""
+
+#: .\iclock\models.py:520
+msgid "participate in the working date"
+msgstr ""
+
+#: .\iclock\models.py:521
+msgid "verification method"
+msgstr ""
+
+#: .\iclock\models.py:522 .\iclock\models.py:803 .\iclock\models.py:1445
+msgid "state"
+msgstr ""
+
+#: .\iclock\models.py:524
+msgid "admin flag"
+msgstr ""
+
+#: .\iclock\models.py:525
+msgid "Active AC"
+msgstr ""
+
+#: .\iclock\models.py:526
+msgid "Count OT"
+msgstr ""
+
+#: .\iclock\models.py:527
+msgid "Rest on Holidays"
+msgstr ""
+
+#: .\iclock\models.py:528
+msgid "Check Clock In"
+msgstr ""
+
+#: .\iclock\models.py:529
+msgid "Check Clock Out"
+msgstr ""
+
+#: .\iclock\models.py:530
+msgid "Lunch"
+msgstr ""
+
+#: .\iclock\models.py:531
+msgid "Password on device"
+msgstr ""
+
+#: .\iclock\models.py:534
+msgid "left"
+msgstr ""
+
+#: .\iclock\models.py:569
+#, possible-python-format
+msgid "Employee PIN %s not found"
+msgstr ""
+
+#: .\iclock\models.py:607
+#, possible-python-format
+msgid "Employee PIN '%s' is disabled"
+msgstr ""
+
+#: .\iclock\models.py:609
+#, possible-python-format
+msgid "Max employee PIN is %d"
+msgstr ""
+
+#: .\iclock\models.py:617 .\iclock\models.py:622
+#, possible-python-format
+msgid "Duplicated Employee PIN: %s"
+msgstr ""
+
+#: .\iclock\models.py:650 .\iclock\models.py:801 .\iclock\models.py:1410
+#: .\iclock\models.py:1439 .\iclock\models.py:1465 .\iclock\models.py:1589
+#: .\iclock\models.py:1615 .\iclock\models.py:1642 .\iclock\models.py:1664
+msgid "employee"
+msgstr ""
+
+#: .\iclock\models.py:726
+msgid "fingerprint"
+msgstr ""
+
+#: .\iclock\models.py:732
+msgid "Fingerprint"
+msgstr ""
+
+#: .\iclock\models.py:733
+msgid "Card"
+msgstr ""
+
+#: .\iclock\models.py:734
+msgid "Add"
+msgstr ""
+
+#: .\iclock\models.py:736
+msgid "Other"
+msgstr ""
+
+#: .\iclock\models.py:740
+msgid "Check in"
+msgstr ""
+
+#: .\iclock\models.py:741
+msgid "Check out"
+msgstr ""
+
+#: .\iclock\models.py:742
+msgid "Meal start"
+msgstr ""
+
+#: .\iclock\models.py:743
+msgid "Meal end"
+msgstr ""
+
+#: .\iclock\models.py:748
+msgid "Break out"
+msgstr ""
+
+#: .\iclock\models.py:749
+msgid "Break in"
+msgstr ""
+
+#: .\iclock\models.py:750
+msgid "Overtime in"
+msgstr ""
+
+#: .\iclock\models.py:751
+msgid "Overtime out"
+msgstr ""
+
+#: .\iclock\models.py:802 .\iclock\models.py:968 .\iclock\models.py:1151
+msgid "time"
+msgstr ""
+
+#: .\iclock\models.py:804
+msgid "verification"
+msgstr ""
+
+#: .\iclock\models.py:807
+msgid "work code"
+msgstr ""
+
+#: .\iclock\models.py:808
+msgid "Reserved"
+msgstr ""
+
+#: .\iclock\models.py:862
+msgid "transaction"
+msgstr ""
+
+#: .\iclock\models.py:863
+msgid "transactions"
+msgstr ""
+
+#: .\iclock\models.py:877
+msgid "start up"
+msgstr ""
+
+#: .\iclock\models.py:878
+msgid "shutdown"
+msgstr ""
+
+#: .\iclock\models.py:879
+msgid "validation failure"
+msgstr ""
+
+#: .\iclock\models.py:880
+msgid "alarm"
+msgstr ""
+
+#: .\iclock\models.py:881
+msgid "enter the menu"
+msgstr ""
+
+#: .\iclock\models.py:882
+msgid "change settings"
+msgstr ""
+
+#: .\iclock\models.py:883
+msgid "registration fingerprint"
+msgstr ""
+
+#: .\iclock\models.py:884
+msgid "registration password"
+msgstr ""
+
+#: .\iclock\models.py:885
+msgid "card registration"
+msgstr ""
+
+#: .\iclock\models.py:886
+msgid "delete User"
+msgstr ""
+
+#: .\iclock\models.py:887
+msgid "delete fingerprints"
+msgstr ""
+
+#: .\iclock\models.py:888
+msgid "delete the password"
+msgstr ""
+
+#: .\iclock\models.py:889
+msgid "delete RF card"
+msgstr ""
+
+#: .\iclock\models.py:890
+msgid "remove data"
+msgstr ""
+
+#: .\iclock\models.py:891
+msgid "MF create cards"
+msgstr ""
+
+#: .\iclock\models.py:892 .\iclock\models.py:893
+msgid "MF registration cards"
+msgstr ""
+
+#: .\iclock\models.py:894
+msgid "MF registration card deleted"
+msgstr ""
+
+#: .\iclock\models.py:895
+msgid "MF clearance card content"
+msgstr ""
+
+#: .\iclock\models.py:896
+msgid "moved to the registration card data"
+msgstr ""
+
+#: .\iclock\models.py:897
+msgid "the data in the card copied to the machine"
+msgstr ""
+
+#: .\iclock\models.py:898
+msgid "set time"
+msgstr ""
+
+#: .\iclock\models.py:899
+msgid "restore factory settings"
+msgstr ""
+
+#: .\iclock\models.py:900
+msgid "delete records access"
+msgstr ""
+
+#: .\iclock\models.py:901
+msgid "remove administrator rights"
+msgstr ""
+
+#: .\iclock\models.py:902
+msgid "group set up to amend Access"
+msgstr ""
+
+#: .\iclock\models.py:903
+msgid "modify user access control settings"
+msgstr ""
+
+#: .\iclock\models.py:904
+msgid "access time to amend paragraph"
+msgstr ""
+
+#: .\iclock\models.py:905
+msgid "amend unlock Portfolio"
+msgstr ""
+
+#: .\iclock\models.py:906
+msgid "unlock"
+msgstr ""
+
+#: .\iclock\models.py:907
+msgid "registration of new users"
+msgstr ""
+
+#: .\iclock\models.py:908
+msgid "fingerprint attribute changes"
+msgstr ""
+
+#: .\iclock\models.py:909
+msgid "stress alarm"
+msgstr ""
+
+#: .\iclock\models.py:950
+msgid "Door Close Detected"
+msgstr ""
+
+#: .\iclock\models.py:951
+msgid "Door Open Detected"
+msgstr ""
+
+#: .\iclock\models.py:952
+msgid "Machine Been Broken"
+msgstr ""
+
+#: .\iclock\models.py:953
+msgid "Out Door Button"
+msgstr ""
+
+#: .\iclock\models.py:954
+msgid "Door Broken Accidentally"
+msgstr ""
+
+#: .\iclock\models.py:955
+msgid "Try Invalid Verification"
+msgstr ""
+
+#: .\iclock\models.py:956
+msgid "Alarm Cancelled"
+msgstr ""
+
+#: .\iclock\models.py:966
+msgid "device administrator"
+msgstr ""
+
+#: .\iclock\models.py:967 .\iclock\models.py:1648
+msgid "Operation"
+msgstr ""
+
+#: .\iclock\models.py:969
+msgid "Object"
+msgstr ""
+
+#: .\iclock\models.py:970
+msgid "Parameter1"
+msgstr ""
+
+#: .\iclock\models.py:971
+msgid "Parameter2"
+msgstr ""
+
+#: .\iclock\models.py:972
+msgid "Parameter3"
+msgstr ""
+
+#: .\iclock\models.py:986
+msgid "device operation log"
+msgstr ""
+
+#: .\iclock\models.py:987
+msgid "device operation logs"
+msgstr ""
+
+#: .\iclock\models.py:998 .\iclock\models.py:1153
+msgid "data"
+msgstr ""
+
+#: .\iclock\models.py:999 .\iclock\models.py:1155
+msgid "object"
+msgstr ""
+
+#: .\iclock\models.py:1000
+msgid "record count"
+msgstr ""
+
+#: .\iclock\models.py:1001
+msgid "error count"
+msgstr ""
+
+#: .\iclock\models.py:1002
+msgid "Upload Time"
+msgstr ""
+
+#: .\iclock\models.py:1017
+msgid "data from device"
+msgstr ""
+
+#: .\iclock\models.py:1043
+msgid "command content"
+msgstr ""
+
+#: .\iclock\models.py:1044
+msgid "submit time"
+msgstr ""
+
+#: .\iclock\models.py:1046
+msgid "return time"
+msgstr ""
+
+#: .\iclock\models.py:1047
+msgid "return value"
+msgstr ""
+
+#: .\iclock\models.py:1048 .\iclock\models.py:1152
+msgid "administrator"
+msgstr ""
+
+#: .\iclock\models.py:1071
+msgid "command to device"
+msgstr ""
+
+#: .\iclock\models.py:1100 .\iclock\models.py:1109
+msgid "News Channel"
+msgstr ""
+
+#: .\iclock\models.py:1101 .\iclock\models.py:1110
+msgid "Company Notice"
+msgstr ""
+
+#: .\iclock\models.py:1102
+msgid "Notice System"
+msgstr ""
+
+#: .\iclock\models.py:1103
+msgid "Companies short message"
+msgstr ""
+
+#: .\iclock\models.py:1107
+msgid "Weather Forecast"
+msgstr ""
+
+#: .\iclock\models.py:1108
+msgid "Employee SMS"
+msgstr ""
+
+#: .\iclock\models.py:1111
+msgid "System Notice"
+msgstr ""
+
+#: .\iclock\models.py:1112
+msgid "Companies SMS"
+msgstr ""
+
+#: .\iclock\models.py:1116 .\iclock\models.py:1134
+msgid "type"
+msgstr ""
+
+#: .\iclock\models.py:1117 .\iclock\models.py:1135
+msgid "take effect"
+msgstr ""
+
+#: .\iclock\models.py:1118 .\iclock\models.py:1136
+msgid "out-of-service"
+msgstr ""
+
+#: .\iclock\models.py:1119
+msgid "Content"
+msgstr ""
+
+#: .\iclock\models.py:1120
+msgid "picture"
+msgstr ""
+
+#: .\iclock\models.py:1121
+msgid "company/department"
+msgstr ""
+
+#: .\iclock\models.py:1122 .\iclock\models.py:1137
+msgid "parameter"
+msgstr ""
+
+#: .\iclock\models.py:1128
+msgid "public information"
+msgstr ""
+
+#: .\iclock\models.py:1138
+msgid "content"
+msgstr ""
+
+#: .\iclock\models.py:1139
+msgid "recently service"
+msgstr ""
+
+#: .\iclock\models.py:1147
+msgid "information subscription"
+msgstr ""
+
+#: .\iclock\models.py:1154
+msgid "operation"
+msgstr ""
+
+#: .\iclock\models.py:1156
+msgid "amount"
+msgstr ""
+
+#: .\iclock\models.py:1167
+msgid "administration log"
+msgstr ""
+
+#: .\iclock\models.py:1168
+msgid "administration logs"
+msgstr ""
+
+#: .\iclock\models.py:1199
+msgid "Check time"
+msgstr ""
+
+#: .\iclock\models.py:1200
+msgid "Check type"
+msgstr ""
+
+#: .\iclock\models.py:1207
+msgid "Modify by"
+msgstr ""
+
+#: .\iclock\models.py:1208
+msgid "Modify date"
+msgstr ""
+
+#: .\iclock\models.py:1218
+msgid "Attendance date"
+msgstr ""
+
+#: .\iclock\models.py:1219
+msgid "Notes"
+msgstr ""
+
+#: .\iclock\models.py:1228
+msgid "The Han nationality"
+msgstr ""
+
+#: .\iclock\models.py:1229
+msgid "The Mongol nationality"
+msgstr ""
+
+#: .\iclock\models.py:1230
+msgid "The Hui nationality"
+msgstr ""
+
+#: .\iclock\models.py:1231
+msgid "The Tibetan nationality"
+msgstr ""
+
+#: .\iclock\models.py:1232
+msgid "The Uyghur nationality"
+msgstr ""
+
+#: .\iclock\models.py:1233
+msgid "The Miao nationality"
+msgstr ""
+
+#: .\iclock\models.py:1234
+msgid "The Yi nationality"
+msgstr ""
+
+#: .\iclock\models.py:1235
+msgid "The Chuang nationality"
+msgstr ""
+
+#: .\iclock\models.py:1236
+msgid "The Puyi nationality"
+msgstr ""
+
+#: .\iclock\models.py:1237
+msgid "The Korean nationality"
+msgstr ""
+
+#: .\iclock\models.py:1238
+msgid "The Manchu nationality"
+msgstr ""
+
+#: .\iclock\models.py:1239
+msgid "The Dongs nationality"
+msgstr ""
+
+#: .\iclock\models.py:1240
+msgid "The Yao nationality"
+msgstr ""
+
+#: .\iclock\models.py:1241
+msgid "The Pai nationality"
+msgstr ""
+
+#: .\iclock\models.py:1242
+msgid "The Tujia nationality"
+msgstr ""
+
+#: .\iclock\models.py:1243
+msgid "The Hani nationality"
+msgstr ""
+
+#: .\iclock\models.py:1244
+msgid "The Kazak nationality"
+msgstr ""
+
+#: .\iclock\models.py:1245
+msgid "The Dai nationality"
+msgstr ""
+
+#: .\iclock\models.py:1246
+msgid "The Li nationality"
+msgstr ""
+
+#: .\iclock\models.py:1247
+msgid "The Lisu ethnic Lisu nationality"
+msgstr ""
+
+#: .\iclock\models.py:1248
+msgid "The Wa nationality"
+msgstr ""
+
+#: .\iclock\models.py:1249
+msgid "The She nationality"
+msgstr ""
+
+#: .\iclock\models.py:1250
+msgid "The Gaoshan nationality"
+msgstr ""
+
+#: .\iclock\models.py:1251
+msgid "The Lahu nationality"
+msgstr ""
+
+#: .\iclock\models.py:1252
+msgid "The Aquatic animals nationality"
+msgstr ""
+
+#: .\iclock\models.py:1253
+msgid "The Dongxiang nationality"
+msgstr ""
+
+#: .\iclock\models.py:1254
+msgid "The Naxi nationality"
+msgstr ""
+
+#: .\iclock\models.py:1255
+msgid "The Jingpo nationality"
+msgstr ""
+
+#: .\iclock\models.py:1256
+msgid "The Kirgiz nationality"
+msgstr ""
+
+#: .\iclock\models.py:1257
+msgid "The Tu nationality"
+msgstr ""
+
+#: .\iclock\models.py:1258
+msgid "The Daur nationality"
+msgstr ""
+
+#: .\iclock\models.py:1259
+msgid "The Mulao nationality"
+msgstr ""
+
+#: .\iclock\models.py:1260
+msgid "The Qiang nationality"
+msgstr ""
+
+#: .\iclock\models.py:1261
+msgid "The Blang nationality"
+msgstr ""
+
+#: .\iclock\models.py:1262
+msgid "The Salar nationality"
+msgstr ""
+
+#: .\iclock\models.py:1263
+msgid "The Gelao nationality"
+msgstr ""
+
+#: .\iclock\models.py:1264
+msgid "The Xibe nationality"
+msgstr ""
+
+#: .\iclock\models.py:1265
+msgid "The Achang nationality"
+msgstr ""
+
+#: .\iclock\models.py:1266
+msgid "The Pumi nationality"
+msgstr ""
+
+#: .\iclock\models.py:1267
+msgid "The Tajik nationality"
+msgstr ""
+
+#: .\iclock\models.py:1268
+msgid "The Nu nationality"
+msgstr ""
+
+#: .\iclock\models.py:1269
+msgid "The Uzbek nationality"
+msgstr ""
+
+#: .\iclock\models.py:1270
+msgid "The Russians nationality"
+msgstr ""
+
+#: .\iclock\models.py:1271
+msgid "The Ewenki nationality"
+msgstr ""
+
+#: .\iclock\models.py:1272
+msgid "The De'ang nationality"
+msgstr ""
+
+#: .\iclock\models.py:1273
+msgid "The Bonan nationality"
+msgstr ""
+
+#: .\iclock\models.py:1274
+msgid "The Yugur nationality"
+msgstr ""
+
+#: .\iclock\models.py:1275
+msgid "The Gin nationality"
+msgstr ""
+
+#: .\iclock\models.py:1276
+msgid "The Tatar nationality"
+msgstr ""
+
+#: .\iclock\models.py:1277
+msgid "The Derung nationality"
+msgstr ""
+
+#: .\iclock\models.py:1278
+msgid "The Oroqen nationality"
+msgstr ""
+
+#: .\iclock\models.py:1279
+msgid "The Hezhen nationality"
+msgstr ""
+
+#: .\iclock\models.py:1280
+msgid "The Monba nationality"
+msgstr ""
+
+#: .\iclock\models.py:1281
+msgid "The Lhoba nationality"
+msgstr ""
+
+#: .\iclock\models.py:1282
+msgid "The Jino nationality"
+msgstr ""
+
+#: .\iclock\models.py:1288
+msgid "Holiday name"
+msgstr ""
+
+#: .\iclock\models.py:1289
+msgid "Year"
+msgstr ""
+
+#: .\iclock\models.py:1290 .\iclock\models.py:1335
+msgid "Month"
+msgstr ""
+
+#: .\iclock\models.py:1291 .\iclock\models.py:1333
+msgid "Day"
+msgstr ""
+
+#: .\iclock\models.py:1292 .\iclock\models.py:1466
+msgid "Beginning time"
+msgstr ""
+
+#: .\iclock\models.py:1293
+msgid "Duration times"
+msgstr ""
+
+#: .\iclock\models.py:1294
+msgid "Holiday type"
+msgstr ""
+
+#: .\iclock\models.py:1295
+msgid "Holiday sex"
+msgstr ""
+
+#: .\iclock\models.py:1296
+msgid "Holiday nation"
+msgstr ""
+
+#: .\iclock\models.py:1303
+msgid "holidays"
+msgstr ""
+
+#: .\iclock\models.py:1311 .\iclock\models.py:1353
+msgid "shift"
+msgstr ""
+
+#: .\iclock\models.py:1312 .\iclock\models.py:1440
+msgid "beginning time"
+msgstr ""
+
+#: .\iclock\models.py:1313 .\iclock\models.py:1441
+msgid "ending time"
+msgstr ""
+
+#: .\iclock\models.py:1314
+msgid "start day"
+msgstr ""
+
+#: .\iclock\models.py:1315
+msgid "finish day"
+msgstr ""
+
+#: .\iclock\models.py:1316 .\iclock\models.py:1669
+msgid "time-table class"
+msgstr ""
+
+#: .\iclock\models.py:1319 .\iclock\models.py:1468
+msgid "Over time"
+msgstr ""
+
+#: .\iclock\models.py:1327
+msgid "shift detail"
+msgstr ""
+
+#: .\iclock\models.py:1334
+msgid "Week"
+msgstr ""
+
+#: .\iclock\models.py:1342 .\iclock\models.py:1382
+msgid "Sch name"
+msgstr ""
+
+#: .\iclock\models.py:1343 .\iclock\models.py:1384 .\iclock\models.py:1411
+msgid "Beginning date"
+msgstr ""
+
+#: .\iclock\models.py:1344 .\iclock\models.py:1385 .\iclock\models.py:1412
+msgid "Ending date"
+msgstr ""
+
+#: .\iclock\models.py:1345
+msgid "Cycle number"
+msgstr ""
+
+#: .\iclock\models.py:1346 .\iclock\models.py:1400
+msgid "Cycle unit"
+msgstr ""
+
+#: .\iclock\models.py:1386
+msgid "Run number"
+msgstr ""
+
+#: .\iclock\models.py:1387
+msgid "SCH1"
+msgstr ""
+
+#: .\iclock\models.py:1388
+msgid "SCH2"
+msgstr ""
+
+#: .\iclock\models.py:1389
+msgid "SCH3"
+msgstr ""
+
+#: .\iclock\models.py:1390
+msgid "SCH4"
+msgstr ""
+
+#: .\iclock\models.py:1391
+msgid "SCH5"
+msgstr ""
+
+#: .\iclock\models.py:1392
+msgid "SCH6"
+msgstr ""
+
+#: .\iclock\models.py:1393
+msgid "SCH7"
+msgstr ""
+
+#: .\iclock\models.py:1394
+msgid "SCH8"
+msgstr ""
+
+#: .\iclock\models.py:1395
+msgid "SCH9"
+msgstr ""
+
+#: .\iclock\models.py:1396
+msgid "SCH10"
+msgstr ""
+
+#: .\iclock\models.py:1397
+msgid "SCH11"
+msgstr ""
+
+#: .\iclock\models.py:1398
+msgid "SCH12"
+msgstr ""
+
+#: .\iclock\models.py:1399
+msgid "Shift Cycle"
+msgstr ""
+
+#: .\iclock\models.py:1405
+msgid "Scheduled shift"
+msgstr ""
+
+#: .\iclock\models.py:1413
+msgid "Shift"
+msgstr ""
+
+#: .\iclock\models.py:1433
+msgid "empoyee shift"
+msgstr ""
+
+#: .\iclock\models.py:1442 .\iclock\models.py:1511
+msgid "Leave Class"
+msgstr ""
+
+#: .\iclock\models.py:1443
+msgid "reson"
+msgstr ""
+
+#: .\iclock\models.py:1444
+msgid "apply date"
+msgstr ""
+
+#: .\iclock\models.py:1451
+msgid "special leave"
+msgstr ""
+
+#: .\iclock\models.py:1467
+msgid "Ending time"
+msgstr ""
+
+#: .\iclock\models.py:1469
+msgid "Type"
+msgstr ""
+
+#: .\iclock\models.py:1484
+msgid "temporary schedule"
+msgstr ""
+
+#: .\iclock\models.py:1489
+msgid "Workday"
+msgstr ""
+
+#: .\iclock\models.py:1490
+msgid "Hour"
+msgstr ""
+
+#: .\iclock\models.py:1491
+msgid "Minute"
+msgstr ""
+
+#: .\iclock\models.py:1495
+msgid "Leave ID"
+msgstr ""
+
+#: .\iclock\models.py:1496 .\iclock\models.py:1518
+msgid "Leave Class name"
+msgstr ""
+
+#: .\iclock\models.py:1497 .\iclock\models.py:1519
+msgid "Min.unit"
+msgstr ""
+
+#: .\iclock\models.py:1498 .\iclock\models.py:1520
+msgid "Unit"
+msgstr ""
+
+#: .\iclock\models.py:1499 .\iclock\models.py:1521
+msgid "Round at Acc."
+msgstr ""
+
+#: .\iclock\models.py:1500 .\iclock\models.py:1522
+msgid "Acc. by times"
+msgstr ""
+
+#: .\iclock\models.py:1501 .\iclock\models.py:1523
+msgid "Symbol in report"
+msgstr ""
+
+#: .\iclock\models.py:1502 .\iclock\models.py:1524
+msgid "Min. unit deduction"
+msgstr ""
+
+#: .\iclock\models.py:1503 .\iclock\models.py:1525 .\iclock\models.py:1550
+msgid "display color"
+msgstr ""
+
+#: .\iclock\models.py:1527
+msgid "Leave Class Type"
+msgstr ""
+
+#: .\iclock\models.py:1533
+msgid "report item"
+msgstr ""
+
+#: .\iclock\models.py:1539
+msgid "time-table name"
+msgstr ""
+
+#: .\iclock\models.py:1540
+msgid "on duty time"
+msgstr ""
+
+#: .\iclock\models.py:1541
+msgid "off duty time"
+msgstr ""
+
+#: .\iclock\models.py:1542
+msgid "late mins."
+msgstr ""
+
+#: .\iclock\models.py:1543
+msgid "leave early mins."
+msgstr ""
+
+#: .\iclock\models.py:1544
+msgid "must C/In"
+msgstr ""
+
+#: .\iclock\models.py:1545
+msgid "must C/Out"
+msgstr ""
+
+#: .\iclock\models.py:1546
+msgid "beginning in"
+msgstr ""
+
+#: .\iclock\models.py:1547
+msgid "ending in"
+msgstr ""
+
+#: .\iclock\models.py:1548
+msgid "begin out"
+msgstr ""
+
+#: .\iclock\models.py:1549
+msgid "end out"
+msgstr ""
+
+#: .\iclock\models.py:1552
+msgid "work day"
+msgstr ""
+
+#: .\iclock\models.py:1559
+msgid "shift time-table"
+msgstr ""
+
+#: .\iclock\models.py:1565
+msgid "Att parameter name"
+msgstr ""
+
+#: .\iclock\models.py:1566
+msgid "Att parameter type"
+msgstr ""
+
+#: .\iclock\models.py:1567
+msgid "Att parameter value"
+msgstr ""
+
+#: .\iclock\models.py:1572
+msgid "attendance rule"
+msgstr ""
+
+#: .\iclock\models.py:1590 .\iclock\models.py:1643
+msgid "CheckTime"
+msgstr ""
+
+#: .\iclock\models.py:1591
+msgid "UTime"
+msgstr ""
+
+#: .\iclock\models.py:1616
+msgid "StartTime"
+msgstr ""
+
+#: .\iclock\models.py:1617
+msgid "EndTime"
+msgstr ""
+
+#: .\iclock\models.py:1618 .\iclock\models.py:1684
+msgid "Exception"
+msgstr ""
+
+#: .\iclock\models.py:1619
+msgid "AuditExc"
+msgstr ""
+
+#: .\iclock\models.py:1620
+msgid "OldAuditExc"
+msgstr ""
+
+#: .\iclock\models.py:1622
+msgid "TotalTimeLong"
+msgstr ""
+
+#: .\iclock\models.py:1623
+msgid "ValidateTimeLong"
+msgstr ""
+
+#: .\iclock\models.py:1624 .\iclock\models.py:1649 .\iclock\models.py:1667
+msgid "AttDate"
+msgstr ""
+
+#: .\iclock\models.py:1644
+msgid "CheckType"
+msgstr ""
+
+#: .\iclock\models.py:1645
+msgid "NewType"
+msgstr ""
+
+#: .\iclock\models.py:1647
+msgid "Schclass"
+msgstr ""
+
+#: .\iclock\models.py:1657 .\iclock\models.py:1658
+msgid "attRecAbnormite"
+msgstr ""
+
+#: .\iclock\models.py:1671
+msgid "ClockInTime"
+msgstr ""
+
+#: .\iclock\models.py:1672
+msgid "ClockOutTime"
+msgstr ""
+
+#: .\iclock\models.py:1673
+msgid "On duty"
+msgstr ""
+
+#: .\iclock\models.py:1674
+msgid "Off duty"
+msgstr ""
+
+#: .\iclock\models.py:1675
+msgid "WorkDay"
+msgstr ""
+
+#: .\iclock\models.py:1676
+msgid "RealWorkDay"
+msgstr ""
+
+#: .\iclock\models.py:1677
+msgid "NoIn"
+msgstr ""
+
+#: .\iclock\models.py:1678
+msgid "NoOut"
+msgstr ""
+
+#: .\iclock\models.py:1679
+msgid "LateTimes"
+msgstr ""
+
+#: .\iclock\models.py:1680
+msgid "EarlyTimes"
+msgstr ""
+
+#: .\iclock\models.py:1681
+msgid "Absent"
+msgstr ""
+
+#: .\iclock\models.py:1682
+msgid "OverTime"
+msgstr ""
+
+#: .\iclock\models.py:1683
+msgid "WorkTime"
+msgstr ""
+
+#: .\iclock\models.py:1685
+msgid "Symbol"
+msgstr ""
+
+#: .\iclock\models.py:1686
+msgid "MustIn"
+msgstr ""
+
+#: .\iclock\models.py:1687
+msgid "MustOut"
+msgstr ""
+
+#: .\iclock\models.py:1688
+msgid "OverTime1"
+msgstr ""
+
+#: .\iclock\models.py:1689
+msgid "WorkMins"
+msgstr ""
+
+#: .\iclock\models.py:1690
+msgid "SSpeDayNorma"
+msgstr ""
+
+#: .\iclock\models.py:1691
+msgid "SSpeDayWeekend"
+msgstr ""
+
+#: .\iclock\models.py:1692
+msgid "SSpeDayHoliday"
+msgstr ""
+
+#: .\iclock\models.py:1693
+msgid "AttTime"
+msgstr ""
+
+#: .\iclock\models.py:1694
+msgid "SSpeDayNormalOT"
+msgstr ""
+
+#: .\iclock\models.py:1695
+msgid "SSpeDayWeekendOT"
+msgstr ""
+
+#: .\iclock\models.py:1696
+msgid "SSpeDayHolidayOT"
+msgstr ""
+
+#: .\iclock\setoption.py:22
+msgid "YES"
+msgstr ""
+
+#: .\iclock\setoption.py:23
+msgid "NO"
+msgstr ""
+
+#: .\iclock\setoption.py:28
+msgid "You must change options from your website!"
+msgstr ""
+
+#: .\iclock\setoption.py:48
+msgid "Set options OK!"
+msgstr ""
+
+#: .\iclock\taskview.py:29
+#, possible-python-format
+msgid "No permission to do on device %s!"
+msgstr ""
+
+#: .\iclock\taskview.py:36
+#, possible-python-format
+msgid "No permission to download employee data to device %s!"
+msgstr ""
+
+#: .\iclock\taskview.py:39 .\iclock\taskview.py:79
+msgid "Designated device does not exist!"
+msgstr ""
+
+#: .\iclock\taskview.py:41
+msgid "Not specified a device!"
+msgstr ""
+
+#: .\iclock\taskview.py:70 .\iclock\taskview.py:72
+msgid "Designated employee does not exist!"
+msgstr ""
+
+#: .\iclock\taskview.py:76
+#, possible-python-format
+msgid "No permission to deete the employee's in device %s"
+msgstr ""
+
+#: .\iclock\taskview.py:82
+#, possible-python-format
+msgid ""
+"Not specified a device, and no permission to delete employee from device %s."
+msgstr ""
+
+#: .\iclock\taskview.py:84
+msgid "Not specified a device, and the employee has no a enrollment device."
+msgstr ""
+
+#: .\iclock\taskview.py:104
+#, possible-python-format
+msgid "%s is not a valid PIN."
+msgstr ""
+
+#: .\iclock\taskview.py:125
+msgid ""
+"Not specified a valid device, or the employee has no a enrollment device!"
+msgstr ""
+
+#: .\iclock\taskview.py:127
+msgid "The employee no in the database."
+msgstr ""
+
+#: .\iclock\taskview.py:149
+msgid "Delete employee from device"
+msgstr ""
+
+#: .\iclock\taskview.py:150
+msgid "Download employee's name to device"
+msgstr ""
+
+#: .\iclock\taskview.py:151
+msgid "Dispatch employee to device"
+msgstr ""
+
+#: .\iclock\taskview.py:194
+#, possible-python-format
+msgid ""
+"%s employee's data is ready to transfer, but following record(s) is missing:"
+msgstr ""
+
+#: .\iclock\taskview.py:196
+msgid "There are wrong: "
+msgstr ""
+
+#: .\iclock\taskview.py:200
+#, possible-python-format
+msgid "%s employee(s) data is ready to transfer."
+msgstr ""
+
+#: .\iclock\taskview.py:213
+msgid "Dispatch employee data to device"
+msgstr ""
+
+#: .\iclock\taskview.py:240
+msgid "Upload employee list"
+msgstr ""
+
+#: .\iclock\taskview.py:276
+#, possible-python-format
+msgid "%(object)s employee has been successfully!"
+msgstr ""
+
+#: .\iclock\taskview.py:282
+msgid "Delete the employee(s) in device"
+msgstr ""
+
+#: .\iclock\taskview.py:287
+msgid "Server upgrades"
+msgstr ""
+
+#: .\iclock\taskview.py:329
+msgid "Restart device successfully: "
+msgstr ""
+
+#: .\iclock\taskview.py:329
+#, possible-python-format
+msgid ""
+"Its size and standard firmware(%(object_name)s) is inconsistent, Need to "
+"upgrade firmware If there is no automatic inspection later firmware update, "
+"or manually upgrade firmware"
+msgstr ""
+
+#: .\iclock\taskview.py:331
+msgid "Failure to restart device:"
+msgstr ""
+
+#: .\iclock\taskview.py:333
+msgid "Please enter the IP address of the device"
+msgstr ""
+
+#: .\iclock\taskview.py:334
+msgid "Restart device"
+msgstr ""
+
+#: .\iclock\taskview.py:341
+msgid "Automatically check sluggish device"
+msgstr ""
+
+#: .\iclock\taskview.py:341
+msgid ""
+"The device(s) does not connect with the server more than half and an hour: </"
+"p><p>"
+msgstr ""
+
+#: .\iclock\taskview.py:341
+msgid ""
+"The system will connect and re-start the following device automaticly: </"
+"p><p>"
+msgstr ""
+
+#: .\iclock\weatherview.py:27
+msgid "device:"
+msgstr ""
